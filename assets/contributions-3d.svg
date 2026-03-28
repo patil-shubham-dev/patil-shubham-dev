@@ -1,0 +1,1871 @@
+<svg viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" width="900" height="380">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <radialGradient id="bg-glow" cx="50%" cy="60%" r="50%">
+      <stop offset="0%" stop-color="#1a0a2e" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="380" fill="#0d1117"/>
+  <ellipse cx="450" cy="280" rx="400" ry="120" fill="url(#bg-glow)"/>
+  
+  <!-- Month labels -->
+  <text x="58" y="192" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Apr</text><text x="110" y="220" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">May</text><text x="162" y="248" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Jun</text><text x="227" y="283" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Jul</text><text x="279" y="311" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Aug</text><text x="331" y="339" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Sep</text><text x="396" y="374" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Oct</text><text x="448" y="402" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Nov</text><text x="500" y="430" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Dec</text><text x="565" y="465" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Jan</text><text x="617" y="493" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Feb</text><text x="669" y="521" fill="#475569" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">Mar</text>
+  
+  <!-- Blocks -->
+  <g class="block" data-date="Apr 02, 2025" data-v="0">
+      <title>Apr 02, 2025: 0 contributions</title>
+      <polygon points="73,225 60,232 60,234 73,227" fill="#091522"/>
+      <polygon points="47,225 60,232 60,234 47,227" fill="#0a1828"/>
+      <polygon points="60,218 73,225 60,232 47,225" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 03, 2025" data-v="0">
+      <title>Apr 03, 2025: 0 contributions</title>
+      <polygon points="60,232 47,239 47,241 60,234" fill="#091522"/>
+      <polygon points="34,232 47,239 47,241 34,234" fill="#0a1828"/>
+      <polygon points="47,225 60,232 47,239 34,232" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 09, 2025" data-v="2">
+      <title>Apr 09, 2025: 2 contributions</title>
+      <polygon points="86,214 73,221 73,241 86,234" fill="#0c3d20"/>
+      <polygon points="60,214 73,221 73,241 60,234" fill="#0f4f28"/>
+      <polygon points="73,207 86,214 73,221 60,214" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 04, 2025" data-v="0">
+      <title>Apr 04, 2025: 0 contributions</title>
+      <polygon points="47,239 34,246 34,248 47,241" fill="#091522"/>
+      <polygon points="21,239 34,246 34,248 21,241" fill="#0a1828"/>
+      <polygon points="34,232 47,239 34,246 21,239" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 10, 2025" data-v="0">
+      <title>Apr 10, 2025: 0 contributions</title>
+      <polygon points="73,239 60,246 60,248 73,241" fill="#091522"/>
+      <polygon points="47,239 60,246 60,248 47,241" fill="#0a1828"/>
+      <polygon points="60,232 73,239 60,246 47,239" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 16, 2025" data-v="3">
+      <title>Apr 16, 2025: 3 contributions</title>
+      <polygon points="99,211 86,218 86,248 99,241" fill="#0c4d26"/>
+      <polygon points="73,211 86,218 86,248 73,241" fill="#0f6030"/>
+      <polygon points="86,204 99,211 86,218 73,211" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 05, 2025" data-v="4">
+      <title>Apr 05, 2025: 4 contributions</title>
+      <polygon points="34,208 21,215 21,255 34,248" fill="#0c622d"/>
+      <polygon points="8,208 21,215 21,255 8,248" fill="#0f7a38"/>
+      <polygon points="21,201 34,208 21,215 8,208" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 11, 2025" data-v="0">
+      <title>Apr 11, 2025: 0 contributions</title>
+      <polygon points="60,246 47,253 47,255 60,248" fill="#091522"/>
+      <polygon points="34,246 47,253 47,255 34,248" fill="#0a1828"/>
+      <polygon points="47,239 60,246 47,253 34,246" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 17, 2025" data-v="2">
+      <title>Apr 17, 2025: 2 contributions</title>
+      <polygon points="86,228 73,235 73,255 86,248" fill="#0c3d20"/>
+      <polygon points="60,228 73,235 73,255 60,248" fill="#0f4f28"/>
+      <polygon points="73,221 86,228 73,235 60,228" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 23, 2025" data-v="0">
+      <title>Apr 23, 2025: 0 contributions</title>
+      <polygon points="112,246 99,253 99,255 112,248" fill="#091522"/>
+      <polygon points="86,246 99,253 99,255 86,248" fill="#0a1828"/>
+      <polygon points="99,239 112,246 99,253 86,246" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 06, 2025" data-v="0">
+      <title>Apr 06, 2025: 0 contributions</title>
+      <polygon points="21,253 8,260 8,262 21,255" fill="#091522"/>
+      <polygon points="-5,253 8,260 8,262 -5,255" fill="#0a1828"/>
+      <polygon points="8,246 21,253 8,260 -5,253" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 12, 2025" data-v="2">
+      <title>Apr 12, 2025: 2 contributions</title>
+      <polygon points="47,235 34,242 34,262 47,255" fill="#0c3d20"/>
+      <polygon points="21,235 34,242 34,262 21,255" fill="#0f4f28"/>
+      <polygon points="34,228 47,235 34,242 21,235" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 18, 2025" data-v="0">
+      <title>Apr 18, 2025: 0 contributions</title>
+      <polygon points="73,253 60,260 60,262 73,255" fill="#091522"/>
+      <polygon points="47,253 60,260 60,262 47,255" fill="#0a1828"/>
+      <polygon points="60,246 73,253 60,260 47,253" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 24, 2025" data-v="4">
+      <title>Apr 24, 2025: 4 contributions</title>
+      <polygon points="99,215 86,222 86,262 99,255" fill="#0c622d"/>
+      <polygon points="73,215 86,222 86,262 73,255" fill="#0f7a38"/>
+      <polygon points="86,208 99,215 86,222 73,215" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 30, 2025" data-v="0">
+      <title>Apr 30, 2025: 0 contributions</title>
+      <polygon points="125,253 112,260 112,262 125,255" fill="#091522"/>
+      <polygon points="99,253 112,260 112,262 99,255" fill="#0a1828"/>
+      <polygon points="112,246 125,253 112,260 99,253" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 07, 2025" data-v="0">
+      <title>Apr 07, 2025: 0 contributions</title>
+      <polygon points="8,260 -5,267 -5,269 8,262" fill="#091522"/>
+      <polygon points="-18,260 -5,267 -5,269 -18,262" fill="#0a1828"/>
+      <polygon points="-5,253 8,260 -5,267 -18,260" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 13, 2025" data-v="4">
+      <title>Apr 13, 2025: 4 contributions</title>
+      <polygon points="34,222 21,229 21,269 34,262" fill="#0c622d"/>
+      <polygon points="8,222 21,229 21,269 8,262" fill="#0f7a38"/>
+      <polygon points="21,215 34,222 21,229 8,222" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 19, 2025" data-v="0">
+      <title>Apr 19, 2025: 0 contributions</title>
+      <polygon points="60,260 47,267 47,269 60,262" fill="#091522"/>
+      <polygon points="34,260 47,267 47,269 34,262" fill="#0a1828"/>
+      <polygon points="47,253 60,260 47,267 34,260" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 25, 2025" data-v="2">
+      <title>Apr 25, 2025: 2 contributions</title>
+      <polygon points="86,242 73,249 73,269 86,262" fill="#0c3d20"/>
+      <polygon points="60,242 73,249 73,269 60,262" fill="#0f4f28"/>
+      <polygon points="73,235 86,242 73,249 60,242" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 01, 2025" data-v="0">
+      <title>May 01, 2025: 0 contributions</title>
+      <polygon points="112,260 99,267 99,269 112,262" fill="#091522"/>
+      <polygon points="86,260 99,267 99,269 86,262" fill="#0a1828"/>
+      <polygon points="99,253 112,260 99,267 86,260" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 07, 2025" data-v="0">
+      <title>May 07, 2025: 0 contributions</title>
+      <polygon points="138,260 125,267 125,269 138,262" fill="#091522"/>
+      <polygon points="112,260 125,267 125,269 112,262" fill="#0a1828"/>
+      <polygon points="125,253 138,260 125,267 112,260" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 08, 2025" data-v="0">
+      <title>Apr 08, 2025: 0 contributions</title>
+      <polygon points="-5,267 -18,274 -18,276 -5,269" fill="#091522"/>
+      <polygon points="-31,267 -18,274 -18,276 -31,269" fill="#0a1828"/>
+      <polygon points="-18,260 -5,267 -18,274 -31,267" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 14, 2025" data-v="0">
+      <title>Apr 14, 2025: 0 contributions</title>
+      <polygon points="21,267 8,274 8,276 21,269" fill="#091522"/>
+      <polygon points="-5,267 8,274 8,276 -5,269" fill="#0a1828"/>
+      <polygon points="8,260 21,267 8,274 -5,267" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 20, 2025" data-v="2">
+      <title>Apr 20, 2025: 2 contributions</title>
+      <polygon points="47,249 34,256 34,276 47,269" fill="#0c3d20"/>
+      <polygon points="21,249 34,256 34,276 21,269" fill="#0f4f28"/>
+      <polygon points="34,242 47,249 34,256 21,249" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 26, 2025" data-v="0">
+      <title>Apr 26, 2025: 0 contributions</title>
+      <polygon points="73,267 60,274 60,276 73,269" fill="#091522"/>
+      <polygon points="47,267 60,274 60,276 47,269" fill="#0a1828"/>
+      <polygon points="60,260 73,267 60,274 47,267" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 02, 2025" data-v="4">
+      <title>May 02, 2025: 4 contributions</title>
+      <polygon points="99,229 86,236 86,276 99,269" fill="#0c622d"/>
+      <polygon points="73,229 86,236 86,276 73,269" fill="#0f7a38"/>
+      <polygon points="86,222 99,229 86,236 73,229" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 08, 2025" data-v="0">
+      <title>May 08, 2025: 0 contributions</title>
+      <polygon points="125,267 112,274 112,276 125,269" fill="#091522"/>
+      <polygon points="99,267 112,274 112,276 99,269" fill="#0a1828"/>
+      <polygon points="112,260 125,267 112,274 99,267" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 14, 2025" data-v="2">
+      <title>May 14, 2025: 2 contributions</title>
+      <polygon points="151,249 138,256 138,276 151,269" fill="#0c3d20"/>
+      <polygon points="125,249 138,256 138,276 125,269" fill="#0f4f28"/>
+      <polygon points="138,242 151,249 138,256 125,249" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 15, 2025" data-v="0">
+      <title>Apr 15, 2025: 0 contributions</title>
+      <polygon points="8,274 -5,281 -5,283 8,276" fill="#091522"/>
+      <polygon points="-18,274 -5,281 -5,283 -18,276" fill="#0a1828"/>
+      <polygon points="-5,267 8,274 -5,281 -18,274" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 21, 2025" data-v="2">
+      <title>Apr 21, 2025: 2 contributions</title>
+      <polygon points="34,256 21,263 21,283 34,276" fill="#0c3d20"/>
+      <polygon points="8,256 21,263 21,283 8,276" fill="#0f4f28"/>
+      <polygon points="21,249 34,256 21,263 8,256" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 27, 2025" data-v="0">
+      <title>Apr 27, 2025: 0 contributions</title>
+      <polygon points="60,274 47,281 47,283 60,276" fill="#091522"/>
+      <polygon points="34,274 47,281 47,283 34,276" fill="#0a1828"/>
+      <polygon points="47,267 60,274 47,281 34,274" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 03, 2025" data-v="0">
+      <title>May 03, 2025: 0 contributions</title>
+      <polygon points="86,274 73,281 73,283 86,276" fill="#091522"/>
+      <polygon points="60,274 73,281 73,283 60,276" fill="#0a1828"/>
+      <polygon points="73,267 86,274 73,281 60,274" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 09, 2025" data-v="1">
+      <title>May 09, 2025: 1 contribution</title>
+      <polygon points="112,266 99,273 99,283 112,276" fill="#0f2a18"/>
+      <polygon points="86,266 99,273 99,283 86,276" fill="#123520"/>
+      <polygon points="99,259 112,266 99,273 86,266" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 15, 2025" data-v="0">
+      <title>May 15, 2025: 0 contributions</title>
+      <polygon points="138,274 125,281 125,283 138,276" fill="#091522"/>
+      <polygon points="112,274 125,281 125,283 112,276" fill="#0a1828"/>
+      <polygon points="125,267 138,274 125,281 112,274" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 21, 2025" data-v="2">
+      <title>May 21, 2025: 2 contributions</title>
+      <polygon points="164,256 151,263 151,283 164,276" fill="#0c3d20"/>
+      <polygon points="138,256 151,263 151,283 138,276" fill="#0f4f28"/>
+      <polygon points="151,249 164,256 151,263 138,256" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 22, 2025" data-v="0">
+      <title>Apr 22, 2025: 0 contributions</title>
+      <polygon points="21,281 8,288 8,290 21,283" fill="#091522"/>
+      <polygon points="-5,281 8,288 8,290 -5,283" fill="#0a1828"/>
+      <polygon points="8,274 21,281 8,288 -5,281" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 28, 2025" data-v="4">
+      <title>Apr 28, 2025: 4 contributions</title>
+      <polygon points="47,243 34,250 34,290 47,283" fill="#0c622d"/>
+      <polygon points="21,243 34,250 34,290 21,283" fill="#0f7a38"/>
+      <polygon points="34,236 47,243 34,250 21,243" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 04, 2025" data-v="0">
+      <title>May 04, 2025: 0 contributions</title>
+      <polygon points="73,281 60,288 60,290 73,283" fill="#091522"/>
+      <polygon points="47,281 60,288 60,290 47,283" fill="#0a1828"/>
+      <polygon points="60,274 73,281 60,288 47,281" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 10, 2025" data-v="4">
+      <title>May 10, 2025: 4 contributions</title>
+      <polygon points="99,243 86,250 86,290 99,283" fill="#0c622d"/>
+      <polygon points="73,243 86,250 86,290 73,283" fill="#0f7a38"/>
+      <polygon points="86,236 99,243 86,250 73,243" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 16, 2025" data-v="0">
+      <title>May 16, 2025: 0 contributions</title>
+      <polygon points="125,281 112,288 112,290 125,283" fill="#091522"/>
+      <polygon points="99,281 112,288 112,290 99,283" fill="#0a1828"/>
+      <polygon points="112,274 125,281 112,288 99,281" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 22, 2025" data-v="2">
+      <title>May 22, 2025: 2 contributions</title>
+      <polygon points="151,263 138,270 138,290 151,283" fill="#0c3d20"/>
+      <polygon points="125,263 138,270 138,290 125,283" fill="#0f4f28"/>
+      <polygon points="138,256 151,263 138,270 125,263" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 28, 2025" data-v="0">
+      <title>May 28, 2025: 0 contributions</title>
+      <polygon points="177,281 164,288 164,290 177,283" fill="#091522"/>
+      <polygon points="151,281 164,288 164,290 151,283" fill="#0a1828"/>
+      <polygon points="164,274 177,281 164,288 151,281" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Apr 29, 2025" data-v="0">
+      <title>Apr 29, 2025: 0 contributions</title>
+      <polygon points="34,288 21,295 21,297 34,290" fill="#091522"/>
+      <polygon points="8,288 21,295 21,297 8,290" fill="#0a1828"/>
+      <polygon points="21,281 34,288 21,295 8,288" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 05, 2025" data-v="0">
+      <title>May 05, 2025: 0 contributions</title>
+      <polygon points="60,288 47,295 47,297 60,290" fill="#091522"/>
+      <polygon points="34,288 47,295 47,297 34,290" fill="#0a1828"/>
+      <polygon points="47,281 60,288 47,295 34,288" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 11, 2025" data-v="0">
+      <title>May 11, 2025: 0 contributions</title>
+      <polygon points="86,288 73,295 73,297 86,290" fill="#091522"/>
+      <polygon points="60,288 73,295 73,297 60,290" fill="#0a1828"/>
+      <polygon points="73,281 86,288 73,295 60,288" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 17, 2025" data-v="4">
+      <title>May 17, 2025: 4 contributions</title>
+      <polygon points="112,250 99,257 99,297 112,290" fill="#0c622d"/>
+      <polygon points="86,250 99,257 99,297 86,290" fill="#0f7a38"/>
+      <polygon points="99,243 112,250 99,257 86,250" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 23, 2025" data-v="0">
+      <title>May 23, 2025: 0 contributions</title>
+      <polygon points="138,288 125,295 125,297 138,290" fill="#091522"/>
+      <polygon points="112,288 125,295 125,297 112,290" fill="#0a1828"/>
+      <polygon points="125,281 138,288 125,295 112,288" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 29, 2025" data-v="2">
+      <title>May 29, 2025: 2 contributions</title>
+      <polygon points="164,270 151,277 151,297 164,290" fill="#0c3d20"/>
+      <polygon points="138,270 151,277 151,297 138,290" fill="#0f4f28"/>
+      <polygon points="151,263 164,270 151,277 138,270" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 04, 2025" data-v="0">
+      <title>Jun 04, 2025: 0 contributions</title>
+      <polygon points="190,288 177,295 177,297 190,290" fill="#091522"/>
+      <polygon points="164,288 177,295 177,297 164,290" fill="#0a1828"/>
+      <polygon points="177,281 190,288 177,295 164,288" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 06, 2025" data-v="0">
+      <title>May 06, 2025: 0 contributions</title>
+      <polygon points="47,295 34,302 34,304 47,297" fill="#091522"/>
+      <polygon points="21,295 34,302 34,304 21,297" fill="#0a1828"/>
+      <polygon points="34,288 47,295 34,302 21,295" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 12, 2025" data-v="0">
+      <title>May 12, 2025: 0 contributions</title>
+      <polygon points="73,295 60,302 60,304 73,297" fill="#091522"/>
+      <polygon points="47,295 60,302 60,304 47,297" fill="#0a1828"/>
+      <polygon points="60,288 73,295 60,302 47,295" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 18, 2025" data-v="3">
+      <title>May 18, 2025: 3 contributions</title>
+      <polygon points="99,267 86,274 86,304 99,297" fill="#0c4d26"/>
+      <polygon points="73,267 86,274 86,304 73,297" fill="#0f6030"/>
+      <polygon points="86,260 99,267 86,274 73,267" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 24, 2025" data-v="0">
+      <title>May 24, 2025: 0 contributions</title>
+      <polygon points="125,295 112,302 112,304 125,297" fill="#091522"/>
+      <polygon points="99,295 112,302 112,304 99,297" fill="#0a1828"/>
+      <polygon points="112,288 125,295 112,302 99,295" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 30, 2025" data-v="1">
+      <title>May 30, 2025: 1 contribution</title>
+      <polygon points="151,287 138,294 138,304 151,297" fill="#0f2a18"/>
+      <polygon points="125,287 138,294 138,304 125,297" fill="#123520"/>
+      <polygon points="138,280 151,287 138,294 125,287" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 05, 2025" data-v="0">
+      <title>Jun 05, 2025: 0 contributions</title>
+      <polygon points="177,295 164,302 164,304 177,297" fill="#091522"/>
+      <polygon points="151,295 164,302 164,304 151,297" fill="#0a1828"/>
+      <polygon points="164,288 177,295 164,302 151,295" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 11, 2025" data-v="0">
+      <title>Jun 11, 2025: 0 contributions</title>
+      <polygon points="203,295 190,302 190,304 203,297" fill="#091522"/>
+      <polygon points="177,295 190,302 190,304 177,297" fill="#0a1828"/>
+      <polygon points="190,288 203,295 190,302 177,295" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 13, 2025" data-v="0">
+      <title>May 13, 2025: 0 contributions</title>
+      <polygon points="60,302 47,309 47,311 60,304" fill="#091522"/>
+      <polygon points="34,302 47,309 47,311 34,304" fill="#0a1828"/>
+      <polygon points="47,295 60,302 47,309 34,302" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 19, 2025" data-v="0">
+      <title>May 19, 2025: 0 contributions</title>
+      <polygon points="86,302 73,309 73,311 86,304" fill="#091522"/>
+      <polygon points="60,302 73,309 73,311 60,304" fill="#0a1828"/>
+      <polygon points="73,295 86,302 73,309 60,302" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 25, 2025" data-v="2">
+      <title>May 25, 2025: 2 contributions</title>
+      <polygon points="112,284 99,291 99,311 112,304" fill="#0c3d20"/>
+      <polygon points="86,284 99,291 99,311 86,304" fill="#0f4f28"/>
+      <polygon points="99,277 112,284 99,291 86,284" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 31, 2025" data-v="0">
+      <title>May 31, 2025: 0 contributions</title>
+      <polygon points="138,302 125,309 125,311 138,304" fill="#091522"/>
+      <polygon points="112,302 125,309 125,311 112,304" fill="#0a1828"/>
+      <polygon points="125,295 138,302 125,309 112,302" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 06, 2025" data-v="4">
+      <title>Jun 06, 2025: 4 contributions</title>
+      <polygon points="164,264 151,271 151,311 164,304" fill="#0c622d"/>
+      <polygon points="138,264 151,271 151,311 138,304" fill="#0f7a38"/>
+      <polygon points="151,257 164,264 151,271 138,264" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 12, 2025" data-v="0">
+      <title>Jun 12, 2025: 0 contributions</title>
+      <polygon points="190,302 177,309 177,311 190,304" fill="#091522"/>
+      <polygon points="164,302 177,309 177,311 164,304" fill="#0a1828"/>
+      <polygon points="177,295 190,302 177,309 164,302" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 18, 2025" data-v="4">
+      <title>Jun 18, 2025: 4 contributions</title>
+      <polygon points="216,264 203,271 203,311 216,304" fill="#0c622d"/>
+      <polygon points="190,264 203,271 203,311 190,304" fill="#0f7a38"/>
+      <polygon points="203,257 216,264 203,271 190,264" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 20, 2025" data-v="0">
+      <title>May 20, 2025: 0 contributions</title>
+      <polygon points="73,309 60,316 60,318 73,311" fill="#091522"/>
+      <polygon points="47,309 60,316 60,318 47,311" fill="#0a1828"/>
+      <polygon points="60,302 73,309 60,316 47,309" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 26, 2025" data-v="2">
+      <title>May 26, 2025: 2 contributions</title>
+      <polygon points="99,291 86,298 86,318 99,311" fill="#0c3d20"/>
+      <polygon points="73,291 86,298 86,318 73,311" fill="#0f4f28"/>
+      <polygon points="86,284 99,291 86,298 73,291" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 01, 2025" data-v="0">
+      <title>Jun 01, 2025: 0 contributions</title>
+      <polygon points="125,309 112,316 112,318 125,311" fill="#091522"/>
+      <polygon points="99,309 112,316 112,318 99,311" fill="#0a1828"/>
+      <polygon points="112,302 125,309 112,316 99,309" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 07, 2025" data-v="0">
+      <title>Jun 07, 2025: 0 contributions</title>
+      <polygon points="151,309 138,316 138,318 151,311" fill="#091522"/>
+      <polygon points="125,309 138,316 138,318 125,311" fill="#0a1828"/>
+      <polygon points="138,302 151,309 138,316 125,309" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 13, 2025" data-v="1">
+      <title>Jun 13, 2025: 1 contribution</title>
+      <polygon points="177,301 164,308 164,318 177,311" fill="#0f2a18"/>
+      <polygon points="151,301 164,308 164,318 151,311" fill="#123520"/>
+      <polygon points="164,294 177,301 164,308 151,301" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 19, 2025" data-v="0">
+      <title>Jun 19, 2025: 0 contributions</title>
+      <polygon points="203,309 190,316 190,318 203,311" fill="#091522"/>
+      <polygon points="177,309 190,316 190,318 177,311" fill="#0a1828"/>
+      <polygon points="190,302 203,309 190,316 177,309" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 25, 2025" data-v="4">
+      <title>Jun 25, 2025: 4 contributions</title>
+      <polygon points="229,271 216,278 216,318 229,311" fill="#0c622d"/>
+      <polygon points="203,271 216,278 216,318 203,311" fill="#0f7a38"/>
+      <polygon points="216,264 229,271 216,278 203,271" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="May 27, 2025" data-v="0">
+      <title>May 27, 2025: 0 contributions</title>
+      <polygon points="86,316 73,323 73,325 86,318" fill="#091522"/>
+      <polygon points="60,316 73,323 73,325 60,318" fill="#0a1828"/>
+      <polygon points="73,309 86,316 73,323 60,316" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 02, 2025" data-v="4">
+      <title>Jun 02, 2025: 4 contributions</title>
+      <polygon points="112,278 99,285 99,325 112,318" fill="#0c622d"/>
+      <polygon points="86,278 99,285 99,325 86,318" fill="#0f7a38"/>
+      <polygon points="99,271 112,278 99,285 86,278" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 08, 2025" data-v="0">
+      <title>Jun 08, 2025: 0 contributions</title>
+      <polygon points="138,316 125,323 125,325 138,318" fill="#091522"/>
+      <polygon points="112,316 125,323 125,325 112,318" fill="#0a1828"/>
+      <polygon points="125,309 138,316 125,323 112,316" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 14, 2025" data-v="2">
+      <title>Jun 14, 2025: 2 contributions</title>
+      <polygon points="164,298 151,305 151,325 164,318" fill="#0c3d20"/>
+      <polygon points="138,298 151,305 151,325 138,318" fill="#0f4f28"/>
+      <polygon points="151,291 164,298 151,305 138,298" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 20, 2025" data-v="0">
+      <title>Jun 20, 2025: 0 contributions</title>
+      <polygon points="190,316 177,323 177,325 190,318" fill="#091522"/>
+      <polygon points="164,316 177,323 177,325 164,318" fill="#0a1828"/>
+      <polygon points="177,309 190,316 177,323 164,316" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 26, 2025" data-v="4">
+      <title>Jun 26, 2025: 4 contributions</title>
+      <polygon points="216,278 203,285 203,325 216,318" fill="#0c622d"/>
+      <polygon points="190,278 203,285 203,325 190,318" fill="#0f7a38"/>
+      <polygon points="203,271 216,278 203,285 190,278" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 02, 2025" data-v="0">
+      <title>Jul 02, 2025: 0 contributions</title>
+      <polygon points="242,316 229,323 229,325 242,318" fill="#091522"/>
+      <polygon points="216,316 229,323 229,325 216,318" fill="#0a1828"/>
+      <polygon points="229,309 242,316 229,323 216,316" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 03, 2025" data-v="0">
+      <title>Jun 03, 2025: 0 contributions</title>
+      <polygon points="99,323 86,330 86,332 99,325" fill="#091522"/>
+      <polygon points="73,323 86,330 86,332 73,325" fill="#0a1828"/>
+      <polygon points="86,316 99,323 86,330 73,323" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 09, 2025" data-v="0">
+      <title>Jun 09, 2025: 0 contributions</title>
+      <polygon points="125,323 112,330 112,332 125,325" fill="#091522"/>
+      <polygon points="99,323 112,330 112,332 99,325" fill="#0a1828"/>
+      <polygon points="112,316 125,323 112,330 99,323" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 15, 2025" data-v="0">
+      <title>Jun 15, 2025: 0 contributions</title>
+      <polygon points="151,323 138,330 138,332 151,325" fill="#091522"/>
+      <polygon points="125,323 138,330 138,332 125,325" fill="#0a1828"/>
+      <polygon points="138,316 151,323 138,330 125,323" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 21, 2025" data-v="2">
+      <title>Jun 21, 2025: 2 contributions</title>
+      <polygon points="177,305 164,312 164,332 177,325" fill="#0c3d20"/>
+      <polygon points="151,305 164,312 164,332 151,325" fill="#0f4f28"/>
+      <polygon points="164,298 177,305 164,312 151,305" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 27, 2025" data-v="0">
+      <title>Jun 27, 2025: 0 contributions</title>
+      <polygon points="203,323 190,330 190,332 203,325" fill="#091522"/>
+      <polygon points="177,323 190,330 190,332 177,325" fill="#0a1828"/>
+      <polygon points="190,316 203,323 190,330 177,323" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 03, 2025" data-v="2">
+      <title>Jul 03, 2025: 2 contributions</title>
+      <polygon points="229,305 216,312 216,332 229,325" fill="#0c3d20"/>
+      <polygon points="203,305 216,312 216,332 203,325" fill="#0f4f28"/>
+      <polygon points="216,298 229,305 216,312 203,305" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 09, 2025" data-v="0">
+      <title>Jul 09, 2025: 0 contributions</title>
+      <polygon points="255,323 242,330 242,332 255,325" fill="#091522"/>
+      <polygon points="229,323 242,330 242,332 229,325" fill="#0a1828"/>
+      <polygon points="242,316 255,323 242,330 229,323" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 10, 2025" data-v="0">
+      <title>Jun 10, 2025: 0 contributions</title>
+      <polygon points="112,330 99,337 99,339 112,332" fill="#091522"/>
+      <polygon points="86,330 99,337 99,339 86,332" fill="#0a1828"/>
+      <polygon points="99,323 112,330 99,337 86,330" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 16, 2025" data-v="0">
+      <title>Jun 16, 2025: 0 contributions</title>
+      <polygon points="138,330 125,337 125,339 138,332" fill="#091522"/>
+      <polygon points="112,330 125,337 125,339 112,332" fill="#0a1828"/>
+      <polygon points="125,323 138,330 125,337 112,330" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 22, 2025" data-v="4">
+      <title>Jun 22, 2025: 4 contributions</title>
+      <polygon points="164,292 151,299 151,339 164,332" fill="#0c622d"/>
+      <polygon points="138,292 151,299 151,339 138,332" fill="#0f7a38"/>
+      <polygon points="151,285 164,292 151,299 138,292" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 28, 2025" data-v="0">
+      <title>Jun 28, 2025: 0 contributions</title>
+      <polygon points="190,330 177,337 177,339 190,332" fill="#091522"/>
+      <polygon points="164,330 177,337 177,339 164,332" fill="#0a1828"/>
+      <polygon points="177,323 190,330 177,337 164,330" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 04, 2025" data-v="3">
+      <title>Jul 04, 2025: 3 contributions</title>
+      <polygon points="216,302 203,309 203,339 216,332" fill="#0c4d26"/>
+      <polygon points="190,302 203,309 203,339 190,332" fill="#0f6030"/>
+      <polygon points="203,295 216,302 203,309 190,302" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 10, 2025" data-v="0">
+      <title>Jul 10, 2025: 0 contributions</title>
+      <polygon points="242,330 229,337 229,339 242,332" fill="#091522"/>
+      <polygon points="216,330 229,337 229,339 216,332" fill="#0a1828"/>
+      <polygon points="229,323 242,330 229,337 216,330" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 16, 2025" data-v="0">
+      <title>Jul 16, 2025: 0 contributions</title>
+      <polygon points="268,330 255,337 255,339 268,332" fill="#091522"/>
+      <polygon points="242,330 255,337 255,339 242,332" fill="#0a1828"/>
+      <polygon points="255,323 268,330 255,337 242,330" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 17, 2025" data-v="0">
+      <title>Jun 17, 2025: 0 contributions</title>
+      <polygon points="125,337 112,344 112,346 125,339" fill="#091522"/>
+      <polygon points="99,337 112,344 112,346 99,339" fill="#0a1828"/>
+      <polygon points="112,330 125,337 112,344 99,337" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 23, 2025" data-v="0">
+      <title>Jun 23, 2025: 0 contributions</title>
+      <polygon points="151,337 138,344 138,346 151,339" fill="#091522"/>
+      <polygon points="125,337 138,344 138,346 125,339" fill="#0a1828"/>
+      <polygon points="138,330 151,337 138,344 125,337" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 29, 2025" data-v="4">
+      <title>Jun 29, 2025: 4 contributions</title>
+      <polygon points="177,299 164,306 164,346 177,339" fill="#0c622d"/>
+      <polygon points="151,299 164,306 164,346 151,339" fill="#0f7a38"/>
+      <polygon points="164,292 177,299 164,306 151,299" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 05, 2025" data-v="0">
+      <title>Jul 05, 2025: 0 contributions</title>
+      <polygon points="203,337 190,344 190,346 203,339" fill="#091522"/>
+      <polygon points="177,337 190,344 190,346 177,339" fill="#0a1828"/>
+      <polygon points="190,330 203,337 190,344 177,337" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 11, 2025" data-v="4">
+      <title>Jul 11, 2025: 4 contributions</title>
+      <polygon points="229,299 216,306 216,346 229,339" fill="#0c622d"/>
+      <polygon points="203,299 216,306 216,346 203,339" fill="#0f7a38"/>
+      <polygon points="216,292 229,299 216,306 203,299" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 17, 2025" data-v="0">
+      <title>Jul 17, 2025: 0 contributions</title>
+      <polygon points="255,337 242,344 242,346 255,339" fill="#091522"/>
+      <polygon points="229,337 242,344 242,346 229,339" fill="#0a1828"/>
+      <polygon points="242,330 255,337 242,344 229,337" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 23, 2025" data-v="2">
+      <title>Jul 23, 2025: 2 contributions</title>
+      <polygon points="281,319 268,326 268,346 281,339" fill="#0c3d20"/>
+      <polygon points="255,319 268,326 268,346 255,339" fill="#0f4f28"/>
+      <polygon points="268,312 281,319 268,326 255,319" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 24, 2025" data-v="0">
+      <title>Jun 24, 2025: 0 contributions</title>
+      <polygon points="138,344 125,351 125,353 138,346" fill="#091522"/>
+      <polygon points="112,344 125,351 125,353 112,346" fill="#0a1828"/>
+      <polygon points="125,337 138,344 125,351 112,344" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jun 30, 2025" data-v="3">
+      <title>Jun 30, 2025: 3 contributions</title>
+      <polygon points="164,316 151,323 151,353 164,346" fill="#0c4d26"/>
+      <polygon points="138,316 151,323 151,353 138,346" fill="#0f6030"/>
+      <polygon points="151,309 164,316 151,323 138,316" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 06, 2025" data-v="0">
+      <title>Jul 06, 2025: 0 contributions</title>
+      <polygon points="190,344 177,351 177,353 190,346" fill="#091522"/>
+      <polygon points="164,344 177,351 177,353 164,346" fill="#0a1828"/>
+      <polygon points="177,337 190,344 177,351 164,344" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 12, 2025" data-v="0">
+      <title>Jul 12, 2025: 0 contributions</title>
+      <polygon points="216,344 203,351 203,353 216,346" fill="#091522"/>
+      <polygon points="190,344 203,351 203,353 190,346" fill="#0a1828"/>
+      <polygon points="203,337 216,344 203,351 190,344" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 18, 2025" data-v="1">
+      <title>Jul 18, 2025: 1 contribution</title>
+      <polygon points="242,336 229,343 229,353 242,346" fill="#0f2a18"/>
+      <polygon points="216,336 229,343 229,353 216,346" fill="#123520"/>
+      <polygon points="229,329 242,336 229,343 216,336" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 24, 2025" data-v="0">
+      <title>Jul 24, 2025: 0 contributions</title>
+      <polygon points="268,344 255,351 255,353 268,346" fill="#091522"/>
+      <polygon points="242,344 255,351 255,353 242,346" fill="#0a1828"/>
+      <polygon points="255,337 268,344 255,351 242,344" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 30, 2025" data-v="3">
+      <title>Jul 30, 2025: 3 contributions</title>
+      <polygon points="294,316 281,323 281,353 294,346" fill="#0c4d26"/>
+      <polygon points="268,316 281,323 281,353 268,346" fill="#0f6030"/>
+      <polygon points="281,309 294,316 281,323 268,316" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 01, 2025" data-v="0">
+      <title>Jul 01, 2025: 0 contributions</title>
+      <polygon points="151,351 138,358 138,360 151,353" fill="#091522"/>
+      <polygon points="125,351 138,358 138,360 125,353" fill="#0a1828"/>
+      <polygon points="138,344 151,351 138,358 125,351" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 07, 2025" data-v="3">
+      <title>Jul 07, 2025: 3 contributions</title>
+      <polygon points="177,323 164,330 164,360 177,353" fill="#0c4d26"/>
+      <polygon points="151,323 164,330 164,360 151,353" fill="#0f6030"/>
+      <polygon points="164,316 177,323 164,330 151,323" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 13, 2025" data-v="0">
+      <title>Jul 13, 2025: 0 contributions</title>
+      <polygon points="203,351 190,358 190,360 203,353" fill="#091522"/>
+      <polygon points="177,351 190,358 190,360 177,353" fill="#0a1828"/>
+      <polygon points="190,344 203,351 190,358 177,351" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 19, 2025" data-v="3">
+      <title>Jul 19, 2025: 3 contributions</title>
+      <polygon points="229,323 216,330 216,360 229,353" fill="#0c4d26"/>
+      <polygon points="203,323 216,330 216,360 203,353" fill="#0f6030"/>
+      <polygon points="216,316 229,323 216,330 203,323" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 25, 2025" data-v="0">
+      <title>Jul 25, 2025: 0 contributions</title>
+      <polygon points="255,351 242,358 242,360 255,353" fill="#091522"/>
+      <polygon points="229,351 242,358 242,360 229,353" fill="#0a1828"/>
+      <polygon points="242,344 255,351 242,358 229,351" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 31, 2025" data-v="3">
+      <title>Jul 31, 2025: 3 contributions</title>
+      <polygon points="281,323 268,330 268,360 281,353" fill="#0c4d26"/>
+      <polygon points="255,323 268,330 268,360 255,353" fill="#0f6030"/>
+      <polygon points="268,316 281,323 268,330 255,323" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 06, 2025" data-v="0">
+      <title>Aug 06, 2025: 0 contributions</title>
+      <polygon points="307,351 294,358 294,360 307,353" fill="#091522"/>
+      <polygon points="281,351 294,358 294,360 281,353" fill="#0a1828"/>
+      <polygon points="294,344 307,351 294,358 281,351" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 08, 2025" data-v="0">
+      <title>Jul 08, 2025: 0 contributions</title>
+      <polygon points="164,358 151,365 151,367 164,360" fill="#091522"/>
+      <polygon points="138,358 151,365 151,367 138,360" fill="#0a1828"/>
+      <polygon points="151,351 164,358 151,365 138,358" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 14, 2025" data-v="0">
+      <title>Jul 14, 2025: 0 contributions</title>
+      <polygon points="190,358 177,365 177,367 190,360" fill="#091522"/>
+      <polygon points="164,358 177,365 177,367 164,360" fill="#0a1828"/>
+      <polygon points="177,351 190,358 177,365 164,358" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 20, 2025" data-v="0">
+      <title>Jul 20, 2025: 0 contributions</title>
+      <polygon points="216,358 203,365 203,367 216,360" fill="#091522"/>
+      <polygon points="190,358 203,365 203,367 190,360" fill="#0a1828"/>
+      <polygon points="203,351 216,358 203,365 190,358" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 26, 2025" data-v="2">
+      <title>Jul 26, 2025: 2 contributions</title>
+      <polygon points="242,340 229,347 229,367 242,360" fill="#0c3d20"/>
+      <polygon points="216,340 229,347 229,367 216,360" fill="#0f4f28"/>
+      <polygon points="229,333 242,340 229,347 216,340" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 01, 2025" data-v="0">
+      <title>Aug 01, 2025: 0 contributions</title>
+      <polygon points="268,358 255,365 255,367 268,360" fill="#091522"/>
+      <polygon points="242,358 255,365 255,367 242,360" fill="#0a1828"/>
+      <polygon points="255,351 268,358 255,365 242,358" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 07, 2025" data-v="2">
+      <title>Aug 07, 2025: 2 contributions</title>
+      <polygon points="294,340 281,347 281,367 294,360" fill="#0c3d20"/>
+      <polygon points="268,340 281,347 281,367 268,360" fill="#0f4f28"/>
+      <polygon points="281,333 294,340 281,347 268,340" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 13, 2025" data-v="0">
+      <title>Aug 13, 2025: 0 contributions</title>
+      <polygon points="320,358 307,365 307,367 320,360" fill="#091522"/>
+      <polygon points="294,358 307,365 307,367 294,360" fill="#0a1828"/>
+      <polygon points="307,351 320,358 307,365 294,358" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 15, 2025" data-v="0">
+      <title>Jul 15, 2025: 0 contributions</title>
+      <polygon points="177,365 164,372 164,374 177,367" fill="#091522"/>
+      <polygon points="151,365 164,372 164,374 151,367" fill="#0a1828"/>
+      <polygon points="164,358 177,365 164,372 151,365" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 21, 2025" data-v="0">
+      <title>Jul 21, 2025: 0 contributions</title>
+      <polygon points="203,365 190,372 190,374 203,367" fill="#091522"/>
+      <polygon points="177,365 190,372 190,374 177,367" fill="#0a1828"/>
+      <polygon points="190,358 203,365 190,372 177,365" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 27, 2025" data-v="4">
+      <title>Jul 27, 2025: 4 contributions</title>
+      <polygon points="229,327 216,334 216,374 229,367" fill="#0c622d"/>
+      <polygon points="203,327 216,334 216,374 203,367" fill="#0f7a38"/>
+      <polygon points="216,320 229,327 216,334 203,327" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 02, 2025" data-v="0">
+      <title>Aug 02, 2025: 0 contributions</title>
+      <polygon points="255,365 242,372 242,374 255,367" fill="#091522"/>
+      <polygon points="229,365 242,372 242,374 229,367" fill="#0a1828"/>
+      <polygon points="242,358 255,365 242,372 229,365" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 08, 2025" data-v="1">
+      <title>Aug 08, 2025: 1 contribution</title>
+      <polygon points="281,357 268,364 268,374 281,367" fill="#0f2a18"/>
+      <polygon points="255,357 268,364 268,374 255,367" fill="#123520"/>
+      <polygon points="268,350 281,357 268,364 255,357" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 14, 2025" data-v="0">
+      <title>Aug 14, 2025: 0 contributions</title>
+      <polygon points="307,365 294,372 294,374 307,367" fill="#091522"/>
+      <polygon points="281,365 294,372 294,374 281,367" fill="#0a1828"/>
+      <polygon points="294,358 307,365 294,372 281,365" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 20, 2025" data-v="0">
+      <title>Aug 20, 2025: 0 contributions</title>
+      <polygon points="333,365 320,372 320,374 333,367" fill="#091522"/>
+      <polygon points="307,365 320,372 320,374 307,367" fill="#0a1828"/>
+      <polygon points="320,358 333,365 320,372 307,365" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 22, 2025" data-v="0">
+      <title>Jul 22, 2025: 0 contributions</title>
+      <polygon points="190,372 177,379 177,381 190,374" fill="#091522"/>
+      <polygon points="164,372 177,379 177,381 164,374" fill="#0a1828"/>
+      <polygon points="177,365 190,372 177,379 164,372" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 28, 2025" data-v="0">
+      <title>Jul 28, 2025: 0 contributions</title>
+      <polygon points="216,372 203,379 203,381 216,374" fill="#091522"/>
+      <polygon points="190,372 203,379 203,381 190,374" fill="#0a1828"/>
+      <polygon points="203,365 216,372 203,379 190,372" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 03, 2025" data-v="3">
+      <title>Aug 03, 2025: 3 contributions</title>
+      <polygon points="242,344 229,351 229,381 242,374" fill="#0c4d26"/>
+      <polygon points="216,344 229,351 229,381 216,374" fill="#0f6030"/>
+      <polygon points="229,337 242,344 229,351 216,344" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 09, 2025" data-v="0">
+      <title>Aug 09, 2025: 0 contributions</title>
+      <polygon points="268,372 255,379 255,381 268,374" fill="#091522"/>
+      <polygon points="242,372 255,379 255,381 242,374" fill="#0a1828"/>
+      <polygon points="255,365 268,372 255,379 242,372" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 15, 2025" data-v="3">
+      <title>Aug 15, 2025: 3 contributions</title>
+      <polygon points="294,344 281,351 281,381 294,374" fill="#0c4d26"/>
+      <polygon points="268,344 281,351 281,381 268,374" fill="#0f6030"/>
+      <polygon points="281,337 294,344 281,351 268,344" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 21, 2025" data-v="0">
+      <title>Aug 21, 2025: 0 contributions</title>
+      <polygon points="320,372 307,379 307,381 320,374" fill="#091522"/>
+      <polygon points="294,372 307,379 307,381 294,374" fill="#0a1828"/>
+      <polygon points="307,365 320,372 307,379 294,372" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 27, 2025" data-v="2">
+      <title>Aug 27, 2025: 2 contributions</title>
+      <polygon points="346,354 333,361 333,381 346,374" fill="#0c3d20"/>
+      <polygon points="320,354 333,361 333,381 320,374" fill="#0f4f28"/>
+      <polygon points="333,347 346,354 333,361 320,354" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jul 29, 2025" data-v="0">
+      <title>Jul 29, 2025: 0 contributions</title>
+      <polygon points="203,379 190,386 190,388 203,381" fill="#091522"/>
+      <polygon points="177,379 190,386 190,388 177,381" fill="#0a1828"/>
+      <polygon points="190,372 203,379 190,386 177,379" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 04, 2025" data-v="3">
+      <title>Aug 04, 2025: 3 contributions</title>
+      <polygon points="229,351 216,358 216,388 229,381" fill="#0c4d26"/>
+      <polygon points="203,351 216,358 216,388 203,381" fill="#0f6030"/>
+      <polygon points="216,344 229,351 216,358 203,351" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 10, 2025" data-v="0">
+      <title>Aug 10, 2025: 0 contributions</title>
+      <polygon points="255,379 242,386 242,388 255,381" fill="#091522"/>
+      <polygon points="229,379 242,386 242,388 229,381" fill="#0a1828"/>
+      <polygon points="242,372 255,379 242,386 229,379" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 16, 2025" data-v="0">
+      <title>Aug 16, 2025: 0 contributions</title>
+      <polygon points="281,379 268,386 268,388 281,381" fill="#091522"/>
+      <polygon points="255,379 268,386 268,388 255,381" fill="#0a1828"/>
+      <polygon points="268,372 281,379 268,386 255,379" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 22, 2025" data-v="1">
+      <title>Aug 22, 2025: 1 contribution</title>
+      <polygon points="307,371 294,378 294,388 307,381" fill="#0f2a18"/>
+      <polygon points="281,371 294,378 294,388 281,381" fill="#123520"/>
+      <polygon points="294,364 307,371 294,378 281,371" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 28, 2025" data-v="0">
+      <title>Aug 28, 2025: 0 contributions</title>
+      <polygon points="333,379 320,386 320,388 333,381" fill="#091522"/>
+      <polygon points="307,379 320,386 320,388 307,381" fill="#0a1828"/>
+      <polygon points="320,372 333,379 320,386 307,379" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 03, 2025" data-v="3">
+      <title>Sep 03, 2025: 3 contributions</title>
+      <polygon points="359,351 346,358 346,388 359,381" fill="#0c4d26"/>
+      <polygon points="333,351 346,358 346,388 333,381" fill="#0f6030"/>
+      <polygon points="346,344 359,351 346,358 333,351" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 05, 2025" data-v="0">
+      <title>Aug 05, 2025: 0 contributions</title>
+      <polygon points="216,386 203,393 203,395 216,388" fill="#091522"/>
+      <polygon points="190,386 203,393 203,395 190,388" fill="#0a1828"/>
+      <polygon points="203,379 216,386 203,393 190,386" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 11, 2025" data-v="2">
+      <title>Aug 11, 2025: 2 contributions</title>
+      <polygon points="242,368 229,375 229,395 242,388" fill="#0c3d20"/>
+      <polygon points="216,368 229,375 229,395 216,388" fill="#0f4f28"/>
+      <polygon points="229,361 242,368 229,375 216,368" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 17, 2025" data-v="0">
+      <title>Aug 17, 2025: 0 contributions</title>
+      <polygon points="268,386 255,393 255,395 268,388" fill="#091522"/>
+      <polygon points="242,386 255,393 255,395 242,388" fill="#0a1828"/>
+      <polygon points="255,379 268,386 255,393 242,386" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 23, 2025" data-v="2">
+      <title>Aug 23, 2025: 2 contributions</title>
+      <polygon points="294,368 281,375 281,395 294,388" fill="#0c3d20"/>
+      <polygon points="268,368 281,375 281,395 268,388" fill="#0f4f28"/>
+      <polygon points="281,361 294,368 281,375 268,368" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 29, 2025" data-v="0">
+      <title>Aug 29, 2025: 0 contributions</title>
+      <polygon points="320,386 307,393 307,395 320,388" fill="#091522"/>
+      <polygon points="294,386 307,393 307,395 294,388" fill="#0a1828"/>
+      <polygon points="307,379 320,386 307,393 294,386" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 04, 2025" data-v="5">
+      <title>Sep 04, 2025: 5 contributions</title>
+      <polygon points="346,338 333,345 333,395 346,388" fill="#14763c"/>
+      <polygon points="320,338 333,345 333,395 320,388" fill="#18934a"/>
+      <polygon points="333,331 346,338 333,345 320,338" fill="#22c55e" stroke="#7c3aed" stroke-width="0.3" filter="url(#glow)"/>
+    </g><g class="block" data-date="Sep 10, 2025" data-v="0">
+      <title>Sep 10, 2025: 0 contributions</title>
+      <polygon points="372,386 359,393 359,395 372,388" fill="#091522"/>
+      <polygon points="346,386 359,393 359,395 346,388" fill="#0a1828"/>
+      <polygon points="359,379 372,386 359,393 346,386" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 12, 2025" data-v="0">
+      <title>Aug 12, 2025: 0 contributions</title>
+      <polygon points="229,393 216,400 216,402 229,395" fill="#091522"/>
+      <polygon points="203,393 216,400 216,402 203,395" fill="#0a1828"/>
+      <polygon points="216,386 229,393 216,400 203,393" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 18, 2025" data-v="1">
+      <title>Aug 18, 2025: 1 contribution</title>
+      <polygon points="255,385 242,392 242,402 255,395" fill="#0f2a18"/>
+      <polygon points="229,385 242,392 242,402 229,395" fill="#123520"/>
+      <polygon points="242,378 255,385 242,392 229,385" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 24, 2025" data-v="0">
+      <title>Aug 24, 2025: 0 contributions</title>
+      <polygon points="281,393 268,400 268,402 281,395" fill="#091522"/>
+      <polygon points="255,393 268,400 268,402 255,395" fill="#0a1828"/>
+      <polygon points="268,386 281,393 268,400 255,393" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 30, 2025" data-v="3">
+      <title>Aug 30, 2025: 3 contributions</title>
+      <polygon points="307,365 294,372 294,402 307,395" fill="#0c4d26"/>
+      <polygon points="281,365 294,372 294,402 281,395" fill="#0f6030"/>
+      <polygon points="294,358 307,365 294,372 281,365" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 05, 2025" data-v="0">
+      <title>Sep 05, 2025: 0 contributions</title>
+      <polygon points="333,393 320,400 320,402 333,395" fill="#091522"/>
+      <polygon points="307,393 320,400 320,402 307,395" fill="#0a1828"/>
+      <polygon points="320,386 333,393 320,400 307,393" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 11, 2025" data-v="3">
+      <title>Sep 11, 2025: 3 contributions</title>
+      <polygon points="359,365 346,372 346,402 359,395" fill="#0c4d26"/>
+      <polygon points="333,365 346,372 346,402 333,395" fill="#0f6030"/>
+      <polygon points="346,358 359,365 346,372 333,365" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 17, 2025" data-v="0">
+      <title>Sep 17, 2025: 0 contributions</title>
+      <polygon points="385,393 372,400 372,402 385,395" fill="#091522"/>
+      <polygon points="359,393 372,400 372,402 359,395" fill="#0a1828"/>
+      <polygon points="372,386 385,393 372,400 359,393" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 19, 2025" data-v="0">
+      <title>Aug 19, 2025: 0 contributions</title>
+      <polygon points="242,400 229,407 229,409 242,402" fill="#091522"/>
+      <polygon points="216,400 229,407 229,409 216,402" fill="#0a1828"/>
+      <polygon points="229,393 242,400 229,407 216,400" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 25, 2025" data-v="0">
+      <title>Aug 25, 2025: 0 contributions</title>
+      <polygon points="268,400 255,407 255,409 268,402" fill="#091522"/>
+      <polygon points="242,400 255,407 255,409 242,402" fill="#0a1828"/>
+      <polygon points="255,393 268,400 255,407 242,400" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 31, 2025" data-v="2">
+      <title>Aug 31, 2025: 2 contributions</title>
+      <polygon points="294,382 281,389 281,409 294,402" fill="#0c3d20"/>
+      <polygon points="268,382 281,389 281,409 268,402" fill="#0f4f28"/>
+      <polygon points="281,375 294,382 281,389 268,382" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 06, 2025" data-v="0">
+      <title>Sep 06, 2025: 0 contributions</title>
+      <polygon points="320,400 307,407 307,409 320,402" fill="#091522"/>
+      <polygon points="294,400 307,407 307,409 294,402" fill="#0a1828"/>
+      <polygon points="307,393 320,400 307,407 294,400" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 12, 2025" data-v="1">
+      <title>Sep 12, 2025: 1 contribution</title>
+      <polygon points="346,392 333,399 333,409 346,402" fill="#0f2a18"/>
+      <polygon points="320,392 333,399 333,409 320,402" fill="#123520"/>
+      <polygon points="333,385 346,392 333,399 320,392" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 18, 2025" data-v="0">
+      <title>Sep 18, 2025: 0 contributions</title>
+      <polygon points="372,400 359,407 359,409 372,402" fill="#091522"/>
+      <polygon points="346,400 359,407 359,409 346,402" fill="#0a1828"/>
+      <polygon points="359,393 372,400 359,407 346,400" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 24, 2025" data-v="0">
+      <title>Sep 24, 2025: 0 contributions</title>
+      <polygon points="398,400 385,407 385,409 398,402" fill="#091522"/>
+      <polygon points="372,400 385,407 385,409 372,402" fill="#0a1828"/>
+      <polygon points="385,393 398,400 385,407 372,400" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Aug 26, 2025" data-v="0">
+      <title>Aug 26, 2025: 0 contributions</title>
+      <polygon points="255,407 242,414 242,416 255,409" fill="#091522"/>
+      <polygon points="229,407 242,414 242,416 229,409" fill="#0a1828"/>
+      <polygon points="242,400 255,407 242,414 229,407" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 01, 2025" data-v="0">
+      <title>Sep 01, 2025: 0 contributions</title>
+      <polygon points="281,407 268,414 268,416 281,409" fill="#091522"/>
+      <polygon points="255,407 268,414 268,416 255,409" fill="#0a1828"/>
+      <polygon points="268,400 281,407 268,414 255,407" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 07, 2025" data-v="4">
+      <title>Sep 07, 2025: 4 contributions</title>
+      <polygon points="307,369 294,376 294,416 307,409" fill="#0c622d"/>
+      <polygon points="281,369 294,376 294,416 281,409" fill="#0f7a38"/>
+      <polygon points="294,362 307,369 294,376 281,369" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 13, 2025" data-v="0">
+      <title>Sep 13, 2025: 0 contributions</title>
+      <polygon points="333,407 320,414 320,416 333,409" fill="#091522"/>
+      <polygon points="307,407 320,414 320,416 307,409" fill="#0a1828"/>
+      <polygon points="320,400 333,407 320,414 307,407" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 19, 2025" data-v="4">
+      <title>Sep 19, 2025: 4 contributions</title>
+      <polygon points="359,369 346,376 346,416 359,409" fill="#0c622d"/>
+      <polygon points="333,369 346,376 346,416 333,409" fill="#0f7a38"/>
+      <polygon points="346,362 359,369 346,376 333,369" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 25, 2025" data-v="0">
+      <title>Sep 25, 2025: 0 contributions</title>
+      <polygon points="385,407 372,414 372,416 385,409" fill="#091522"/>
+      <polygon points="359,407 372,414 372,416 359,409" fill="#0a1828"/>
+      <polygon points="372,400 385,407 372,414 359,407" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 01, 2025" data-v="2">
+      <title>Oct 01, 2025: 2 contributions</title>
+      <polygon points="411,389 398,396 398,416 411,409" fill="#0c3d20"/>
+      <polygon points="385,389 398,396 398,416 385,409" fill="#0f4f28"/>
+      <polygon points="398,382 411,389 398,396 385,389" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 02, 2025" data-v="0">
+      <title>Sep 02, 2025: 0 contributions</title>
+      <polygon points="268,414 255,421 255,423 268,416" fill="#091522"/>
+      <polygon points="242,414 255,421 255,423 242,416" fill="#0a1828"/>
+      <polygon points="255,407 268,414 255,421 242,414" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 08, 2025" data-v="1">
+      <title>Sep 08, 2025: 1 contribution</title>
+      <polygon points="294,406 281,413 281,423 294,416" fill="#0f2a18"/>
+      <polygon points="268,406 281,413 281,423 268,416" fill="#123520"/>
+      <polygon points="281,399 294,406 281,413 268,406" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 14, 2025" data-v="0">
+      <title>Sep 14, 2025: 0 contributions</title>
+      <polygon points="320,414 307,421 307,423 320,416" fill="#091522"/>
+      <polygon points="294,414 307,421 307,423 294,416" fill="#0a1828"/>
+      <polygon points="307,407 320,414 307,421 294,414" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 20, 2025" data-v="0">
+      <title>Sep 20, 2025: 0 contributions</title>
+      <polygon points="346,414 333,421 333,423 346,416" fill="#091522"/>
+      <polygon points="320,414 333,421 333,423 320,416" fill="#0a1828"/>
+      <polygon points="333,407 346,414 333,421 320,414" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 26, 2025" data-v="3">
+      <title>Sep 26, 2025: 3 contributions</title>
+      <polygon points="372,386 359,393 359,423 372,416" fill="#0c4d26"/>
+      <polygon points="346,386 359,393 359,423 346,416" fill="#0f6030"/>
+      <polygon points="359,379 372,386 359,393 346,386" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 02, 2025" data-v="0">
+      <title>Oct 02, 2025: 0 contributions</title>
+      <polygon points="398,414 385,421 385,423 398,416" fill="#091522"/>
+      <polygon points="372,414 385,421 385,423 372,416" fill="#0a1828"/>
+      <polygon points="385,407 398,414 385,421 372,414" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 08, 2025" data-v="4">
+      <title>Oct 08, 2025: 4 contributions</title>
+      <polygon points="424,376 411,383 411,423 424,416" fill="#0c622d"/>
+      <polygon points="398,376 411,383 411,423 398,416" fill="#0f7a38"/>
+      <polygon points="411,369 424,376 411,383 398,376" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 09, 2025" data-v="0">
+      <title>Sep 09, 2025: 0 contributions</title>
+      <polygon points="281,421 268,428 268,430 281,423" fill="#091522"/>
+      <polygon points="255,421 268,428 268,430 255,423" fill="#0a1828"/>
+      <polygon points="268,414 281,421 268,428 255,421" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 15, 2025" data-v="2">
+      <title>Sep 15, 2025: 2 contributions</title>
+      <polygon points="307,403 294,410 294,430 307,423" fill="#0c3d20"/>
+      <polygon points="281,403 294,410 294,430 281,423" fill="#0f4f28"/>
+      <polygon points="294,396 307,403 294,410 281,403" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 21, 2025" data-v="0">
+      <title>Sep 21, 2025: 0 contributions</title>
+      <polygon points="333,421 320,428 320,430 333,423" fill="#091522"/>
+      <polygon points="307,421 320,428 320,430 307,423" fill="#0a1828"/>
+      <polygon points="320,414 333,421 320,428 307,421" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 27, 2025" data-v="4">
+      <title>Sep 27, 2025: 4 contributions</title>
+      <polygon points="359,383 346,390 346,430 359,423" fill="#0c622d"/>
+      <polygon points="333,383 346,390 346,430 333,423" fill="#0f7a38"/>
+      <polygon points="346,376 359,383 346,390 333,383" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 03, 2025" data-v="0">
+      <title>Oct 03, 2025: 0 contributions</title>
+      <polygon points="385,421 372,428 372,430 385,423" fill="#091522"/>
+      <polygon points="359,421 372,428 372,430 359,423" fill="#0a1828"/>
+      <polygon points="372,414 385,421 372,428 359,421" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 09, 2025" data-v="3">
+      <title>Oct 09, 2025: 3 contributions</title>
+      <polygon points="411,393 398,400 398,430 411,423" fill="#0c4d26"/>
+      <polygon points="385,393 398,400 398,430 385,423" fill="#0f6030"/>
+      <polygon points="398,386 411,393 398,400 385,393" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 15, 2025" data-v="0">
+      <title>Oct 15, 2025: 0 contributions</title>
+      <polygon points="437,421 424,428 424,430 437,423" fill="#091522"/>
+      <polygon points="411,421 424,428 424,430 411,423" fill="#0a1828"/>
+      <polygon points="424,414 437,421 424,428 411,421" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 16, 2025" data-v="0">
+      <title>Sep 16, 2025: 0 contributions</title>
+      <polygon points="294,428 281,435 281,437 294,430" fill="#091522"/>
+      <polygon points="268,428 281,435 281,437 268,430" fill="#0a1828"/>
+      <polygon points="281,421 294,428 281,435 268,428" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 22, 2025" data-v="1">
+      <title>Sep 22, 2025: 1 contribution</title>
+      <polygon points="320,420 307,427 307,437 320,430" fill="#0f2a18"/>
+      <polygon points="294,420 307,427 307,437 294,430" fill="#123520"/>
+      <polygon points="307,413 320,420 307,427 294,420" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 28, 2025" data-v="0">
+      <title>Sep 28, 2025: 0 contributions</title>
+      <polygon points="346,428 333,435 333,437 346,430" fill="#091522"/>
+      <polygon points="320,428 333,435 333,437 320,430" fill="#0a1828"/>
+      <polygon points="333,421 346,428 333,435 320,428" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 04, 2025" data-v="3">
+      <title>Oct 04, 2025: 3 contributions</title>
+      <polygon points="372,400 359,407 359,437 372,430" fill="#0c4d26"/>
+      <polygon points="346,400 359,407 359,437 346,430" fill="#0f6030"/>
+      <polygon points="359,393 372,400 359,407 346,400" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 10, 2025" data-v="0">
+      <title>Oct 10, 2025: 0 contributions</title>
+      <polygon points="398,428 385,435 385,437 398,430" fill="#091522"/>
+      <polygon points="372,428 385,435 385,437 372,430" fill="#0a1828"/>
+      <polygon points="385,421 398,428 385,435 372,428" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 16, 2025" data-v="4">
+      <title>Oct 16, 2025: 4 contributions</title>
+      <polygon points="424,390 411,397 411,437 424,430" fill="#0c622d"/>
+      <polygon points="398,390 411,397 411,437 398,430" fill="#0f7a38"/>
+      <polygon points="411,383 424,390 411,397 398,390" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 22, 2025" data-v="0">
+      <title>Oct 22, 2025: 0 contributions</title>
+      <polygon points="450,428 437,435 437,437 450,430" fill="#091522"/>
+      <polygon points="424,428 437,435 437,437 424,430" fill="#0a1828"/>
+      <polygon points="437,421 450,428 437,435 424,428" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 23, 2025" data-v="0">
+      <title>Sep 23, 2025: 0 contributions</title>
+      <polygon points="307,435 294,442 294,444 307,437" fill="#091522"/>
+      <polygon points="281,435 294,442 294,444 281,437" fill="#0a1828"/>
+      <polygon points="294,428 307,435 294,442 281,435" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 29, 2025" data-v="0">
+      <title>Sep 29, 2025: 0 contributions</title>
+      <polygon points="333,435 320,442 320,444 333,437" fill="#091522"/>
+      <polygon points="307,435 320,442 320,444 307,437" fill="#0a1828"/>
+      <polygon points="320,428 333,435 320,442 307,435" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 05, 2025" data-v="4">
+      <title>Oct 05, 2025: 4 contributions</title>
+      <polygon points="359,397 346,404 346,444 359,437" fill="#0c622d"/>
+      <polygon points="333,397 346,404 346,444 333,437" fill="#0f7a38"/>
+      <polygon points="346,390 359,397 346,404 333,397" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 11, 2025" data-v="0">
+      <title>Oct 11, 2025: 0 contributions</title>
+      <polygon points="385,435 372,442 372,444 385,437" fill="#091522"/>
+      <polygon points="359,435 372,442 372,444 359,437" fill="#0a1828"/>
+      <polygon points="372,428 385,435 372,442 359,435" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 17, 2025" data-v="0">
+      <title>Oct 17, 2025: 0 contributions</title>
+      <polygon points="411,435 398,442 398,444 411,437" fill="#091522"/>
+      <polygon points="385,435 398,442 398,444 385,437" fill="#0a1828"/>
+      <polygon points="398,428 411,435 398,442 385,435" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 23, 2025" data-v="1">
+      <title>Oct 23, 2025: 1 contribution</title>
+      <polygon points="437,427 424,434 424,444 437,437" fill="#0f2a18"/>
+      <polygon points="411,427 424,434 424,444 411,437" fill="#123520"/>
+      <polygon points="424,420 437,427 424,434 411,427" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 29, 2025" data-v="0">
+      <title>Oct 29, 2025: 0 contributions</title>
+      <polygon points="463,435 450,442 450,444 463,437" fill="#091522"/>
+      <polygon points="437,435 450,442 450,444 437,437" fill="#0a1828"/>
+      <polygon points="450,428 463,435 450,442 437,435" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Sep 30, 2025" data-v="0">
+      <title>Sep 30, 2025: 0 contributions</title>
+      <polygon points="320,442 307,449 307,451 320,444" fill="#091522"/>
+      <polygon points="294,442 307,449 307,451 294,444" fill="#0a1828"/>
+      <polygon points="307,435 320,442 307,449 294,442" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 06, 2025" data-v="0">
+      <title>Oct 06, 2025: 0 contributions</title>
+      <polygon points="346,442 333,449 333,451 346,444" fill="#091522"/>
+      <polygon points="320,442 333,449 333,451 320,444" fill="#0a1828"/>
+      <polygon points="333,435 346,442 333,449 320,442" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 12, 2025" data-v="4">
+      <title>Oct 12, 2025: 4 contributions</title>
+      <polygon points="372,404 359,411 359,451 372,444" fill="#0c622d"/>
+      <polygon points="346,404 359,411 359,451 346,444" fill="#0f7a38"/>
+      <polygon points="359,397 372,404 359,411 346,404" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 18, 2025" data-v="0">
+      <title>Oct 18, 2025: 0 contributions</title>
+      <polygon points="398,442 385,449 385,451 398,444" fill="#091522"/>
+      <polygon points="372,442 385,449 385,451 372,444" fill="#0a1828"/>
+      <polygon points="385,435 398,442 385,449 372,442" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 24, 2025" data-v="4">
+      <title>Oct 24, 2025: 4 contributions</title>
+      <polygon points="424,404 411,411 411,451 424,444" fill="#0c622d"/>
+      <polygon points="398,404 411,411 411,451 398,444" fill="#0f7a38"/>
+      <polygon points="411,397 424,404 411,411 398,404" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 30, 2025" data-v="0">
+      <title>Oct 30, 2025: 0 contributions</title>
+      <polygon points="450,442 437,449 437,451 450,444" fill="#091522"/>
+      <polygon points="424,442 437,449 437,451 424,444" fill="#0a1828"/>
+      <polygon points="437,435 450,442 437,449 424,442" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 05, 2025" data-v="4">
+      <title>Nov 05, 2025: 4 contributions</title>
+      <polygon points="476,404 463,411 463,451 476,444" fill="#0c622d"/>
+      <polygon points="450,404 463,411 463,451 450,444" fill="#0f7a38"/>
+      <polygon points="463,397 476,404 463,411 450,404" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 07, 2025" data-v="0">
+      <title>Oct 07, 2025: 0 contributions</title>
+      <polygon points="333,449 320,456 320,458 333,451" fill="#091522"/>
+      <polygon points="307,449 320,456 320,458 307,451" fill="#0a1828"/>
+      <polygon points="320,442 333,449 320,456 307,449" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 13, 2025" data-v="1">
+      <title>Oct 13, 2025: 1 contribution</title>
+      <polygon points="359,441 346,448 346,458 359,451" fill="#0f2a18"/>
+      <polygon points="333,441 346,448 346,458 333,451" fill="#123520"/>
+      <polygon points="346,434 359,441 346,448 333,441" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 19, 2025" data-v="0">
+      <title>Oct 19, 2025: 0 contributions</title>
+      <polygon points="385,449 372,456 372,458 385,451" fill="#091522"/>
+      <polygon points="359,449 372,456 372,458 359,451" fill="#0a1828"/>
+      <polygon points="372,442 385,449 372,456 359,449" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 25, 2025" data-v="0">
+      <title>Oct 25, 2025: 0 contributions</title>
+      <polygon points="411,449 398,456 398,458 411,451" fill="#091522"/>
+      <polygon points="385,449 398,456 398,458 385,451" fill="#0a1828"/>
+      <polygon points="398,442 411,449 398,456 385,449" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 31, 2025" data-v="2">
+      <title>Oct 31, 2025: 2 contributions</title>
+      <polygon points="437,431 424,438 424,458 437,451" fill="#0c3d20"/>
+      <polygon points="411,431 424,438 424,458 411,451" fill="#0f4f28"/>
+      <polygon points="424,424 437,431 424,438 411,431" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 06, 2025" data-v="0">
+      <title>Nov 06, 2025: 0 contributions</title>
+      <polygon points="463,449 450,456 450,458 463,451" fill="#091522"/>
+      <polygon points="437,449 450,456 450,458 437,451" fill="#0a1828"/>
+      <polygon points="450,442 463,449 450,456 437,449" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 12, 2025" data-v="2">
+      <title>Nov 12, 2025: 2 contributions</title>
+      <polygon points="489,431 476,438 476,458 489,451" fill="#0c3d20"/>
+      <polygon points="463,431 476,438 476,458 463,451" fill="#0f4f28"/>
+      <polygon points="476,424 489,431 476,438 463,431" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 14, 2025" data-v="0">
+      <title>Oct 14, 2025: 0 contributions</title>
+      <polygon points="346,456 333,463 333,465 346,458" fill="#091522"/>
+      <polygon points="320,456 333,463 333,465 320,458" fill="#0a1828"/>
+      <polygon points="333,449 346,456 333,463 320,456" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 20, 2025" data-v="3">
+      <title>Oct 20, 2025: 3 contributions</title>
+      <polygon points="372,428 359,435 359,465 372,458" fill="#0c4d26"/>
+      <polygon points="346,428 359,435 359,465 346,458" fill="#0f6030"/>
+      <polygon points="359,421 372,428 359,435 346,428" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 26, 2025" data-v="0">
+      <title>Oct 26, 2025: 0 contributions</title>
+      <polygon points="398,456 385,463 385,465 398,458" fill="#091522"/>
+      <polygon points="372,456 385,463 385,465 372,458" fill="#0a1828"/>
+      <polygon points="385,449 398,456 385,463 372,456" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 01, 2025" data-v="4">
+      <title>Nov 01, 2025: 4 contributions</title>
+      <polygon points="424,418 411,425 411,465 424,458" fill="#0c622d"/>
+      <polygon points="398,418 411,425 411,465 398,458" fill="#0f7a38"/>
+      <polygon points="411,411 424,418 411,425 398,418" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 07, 2025" data-v="0">
+      <title>Nov 07, 2025: 0 contributions</title>
+      <polygon points="450,456 437,463 437,465 450,458" fill="#091522"/>
+      <polygon points="424,456 437,463 437,465 424,458" fill="#0a1828"/>
+      <polygon points="437,449 450,456 437,463 424,456" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 13, 2025" data-v="1">
+      <title>Nov 13, 2025: 1 contribution</title>
+      <polygon points="476,448 463,455 463,465 476,458" fill="#0f2a18"/>
+      <polygon points="450,448 463,455 463,465 450,458" fill="#123520"/>
+      <polygon points="463,441 476,448 463,455 450,448" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 19, 2025" data-v="0">
+      <title>Nov 19, 2025: 0 contributions</title>
+      <polygon points="502,456 489,463 489,465 502,458" fill="#091522"/>
+      <polygon points="476,456 489,463 489,465 476,458" fill="#0a1828"/>
+      <polygon points="489,449 502,456 489,463 476,456" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 21, 2025" data-v="0">
+      <title>Oct 21, 2025: 0 contributions</title>
+      <polygon points="359,463 346,470 346,472 359,465" fill="#091522"/>
+      <polygon points="333,463 346,470 346,472 333,465" fill="#0a1828"/>
+      <polygon points="346,456 359,463 346,470 333,463" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 27, 2025" data-v="1">
+      <title>Oct 27, 2025: 1 contribution</title>
+      <polygon points="385,455 372,462 372,472 385,465" fill="#0f2a18"/>
+      <polygon points="359,455 372,462 372,472 359,465" fill="#123520"/>
+      <polygon points="372,448 385,455 372,462 359,455" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 02, 2025" data-v="0">
+      <title>Nov 02, 2025: 0 contributions</title>
+      <polygon points="411,463 398,470 398,472 411,465" fill="#091522"/>
+      <polygon points="385,463 398,470 398,472 385,465" fill="#0a1828"/>
+      <polygon points="398,456 411,463 398,470 385,463" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 08, 2025" data-v="2">
+      <title>Nov 08, 2025: 2 contributions</title>
+      <polygon points="437,445 424,452 424,472 437,465" fill="#0c3d20"/>
+      <polygon points="411,445 424,452 424,472 411,465" fill="#0f4f28"/>
+      <polygon points="424,438 437,445 424,452 411,445" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 14, 2025" data-v="0">
+      <title>Nov 14, 2025: 0 contributions</title>
+      <polygon points="463,463 450,470 450,472 463,465" fill="#091522"/>
+      <polygon points="437,463 450,470 450,472 437,465" fill="#0a1828"/>
+      <polygon points="450,456 463,463 450,470 437,463" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 20, 2025" data-v="2">
+      <title>Nov 20, 2025: 2 contributions</title>
+      <polygon points="489,445 476,452 476,472 489,465" fill="#0c3d20"/>
+      <polygon points="463,445 476,452 476,472 463,465" fill="#0f4f28"/>
+      <polygon points="476,438 489,445 476,452 463,445" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 26, 2025" data-v="0">
+      <title>Nov 26, 2025: 0 contributions</title>
+      <polygon points="515,463 502,470 502,472 515,465" fill="#091522"/>
+      <polygon points="489,463 502,470 502,472 489,465" fill="#0a1828"/>
+      <polygon points="502,456 515,463 502,470 489,463" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Oct 28, 2025" data-v="0">
+      <title>Oct 28, 2025: 0 contributions</title>
+      <polygon points="372,470 359,477 359,479 372,472" fill="#091522"/>
+      <polygon points="346,470 359,477 359,479 346,472" fill="#0a1828"/>
+      <polygon points="359,463 372,470 359,477 346,470" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 03, 2025" data-v="0">
+      <title>Nov 03, 2025: 0 contributions</title>
+      <polygon points="398,470 385,477 385,479 398,472" fill="#091522"/>
+      <polygon points="372,470 385,477 385,479 372,472" fill="#0a1828"/>
+      <polygon points="385,463 398,470 385,477 372,470" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 09, 2025" data-v="4">
+      <title>Nov 09, 2025: 4 contributions</title>
+      <polygon points="424,432 411,439 411,479 424,472" fill="#0c622d"/>
+      <polygon points="398,432 411,439 411,479 398,472" fill="#0f7a38"/>
+      <polygon points="411,425 424,432 411,439 398,432" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 15, 2025" data-v="0">
+      <title>Nov 15, 2025: 0 contributions</title>
+      <polygon points="450,470 437,477 437,479 450,472" fill="#091522"/>
+      <polygon points="424,470 437,477 437,479 424,472" fill="#0a1828"/>
+      <polygon points="437,463 450,470 437,477 424,470" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 21, 2025" data-v="0">
+      <title>Nov 21, 2025: 0 contributions</title>
+      <polygon points="476,470 463,477 463,479 476,472" fill="#091522"/>
+      <polygon points="450,470 463,477 463,479 450,472" fill="#0a1828"/>
+      <polygon points="463,463 476,470 463,477 450,470" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 27, 2025" data-v="1">
+      <title>Nov 27, 2025: 1 contribution</title>
+      <polygon points="502,462 489,469 489,479 502,472" fill="#0f2a18"/>
+      <polygon points="476,462 489,469 489,479 476,472" fill="#123520"/>
+      <polygon points="489,455 502,462 489,469 476,462" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 03, 2025" data-v="0">
+      <title>Dec 03, 2025: 0 contributions</title>
+      <polygon points="528,470 515,477 515,479 528,472" fill="#091522"/>
+      <polygon points="502,470 515,477 515,479 502,472" fill="#0a1828"/>
+      <polygon points="515,463 528,470 515,477 502,470" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 04, 2025" data-v="0">
+      <title>Nov 04, 2025: 0 contributions</title>
+      <polygon points="385,477 372,484 372,486 385,479" fill="#091522"/>
+      <polygon points="359,477 372,484 372,486 359,479" fill="#0a1828"/>
+      <polygon points="372,470 385,477 372,484 359,477" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 10, 2025" data-v="0">
+      <title>Nov 10, 2025: 0 contributions</title>
+      <polygon points="411,477 398,484 398,486 411,479" fill="#091522"/>
+      <polygon points="385,477 398,484 398,486 385,479" fill="#0a1828"/>
+      <polygon points="398,470 411,477 398,484 385,477" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 16, 2025" data-v="3">
+      <title>Nov 16, 2025: 3 contributions</title>
+      <polygon points="437,449 424,456 424,486 437,479" fill="#0c4d26"/>
+      <polygon points="411,449 424,456 424,486 411,479" fill="#0f6030"/>
+      <polygon points="424,442 437,449 424,456 411,449" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 22, 2025" data-v="0">
+      <title>Nov 22, 2025: 0 contributions</title>
+      <polygon points="463,477 450,484 450,486 463,479" fill="#091522"/>
+      <polygon points="437,477 450,484 450,486 437,479" fill="#0a1828"/>
+      <polygon points="450,470 463,477 450,484 437,477" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 28, 2025" data-v="2">
+      <title>Nov 28, 2025: 2 contributions</title>
+      <polygon points="489,459 476,466 476,486 489,479" fill="#0c3d20"/>
+      <polygon points="463,459 476,466 476,486 463,479" fill="#0f4f28"/>
+      <polygon points="476,452 489,459 476,466 463,459" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 04, 2025" data-v="0">
+      <title>Dec 04, 2025: 0 contributions</title>
+      <polygon points="515,477 502,484 502,486 515,479" fill="#091522"/>
+      <polygon points="489,477 502,484 502,486 489,479" fill="#0a1828"/>
+      <polygon points="502,470 515,477 502,484 489,477" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 10, 2025" data-v="4">
+      <title>Dec 10, 2025: 4 contributions</title>
+      <polygon points="541,439 528,446 528,486 541,479" fill="#0c622d"/>
+      <polygon points="515,439 528,446 528,486 515,479" fill="#0f7a38"/>
+      <polygon points="528,432 541,439 528,446 515,439" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 11, 2025" data-v="0">
+      <title>Nov 11, 2025: 0 contributions</title>
+      <polygon points="398,484 385,491 385,493 398,486" fill="#091522"/>
+      <polygon points="372,484 385,491 385,493 372,486" fill="#0a1828"/>
+      <polygon points="385,477 398,484 385,491 372,484" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 17, 2025" data-v="1">
+      <title>Nov 17, 2025: 1 contribution</title>
+      <polygon points="424,476 411,483 411,493 424,486" fill="#0f2a18"/>
+      <polygon points="398,476 411,483 411,493 398,486" fill="#123520"/>
+      <polygon points="411,469 424,476 411,483 398,476" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 23, 2025" data-v="0">
+      <title>Nov 23, 2025: 0 contributions</title>
+      <polygon points="450,484 437,491 437,493 450,486" fill="#091522"/>
+      <polygon points="424,484 437,491 437,493 424,486" fill="#0a1828"/>
+      <polygon points="437,477 450,484 437,491 424,484" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 29, 2025" data-v="0">
+      <title>Nov 29, 2025: 0 contributions</title>
+      <polygon points="476,484 463,491 463,493 476,486" fill="#091522"/>
+      <polygon points="450,484 463,491 463,493 450,486" fill="#0a1828"/>
+      <polygon points="463,477 476,484 463,491 450,484" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 05, 2025" data-v="3">
+      <title>Dec 05, 2025: 3 contributions</title>
+      <polygon points="502,456 489,463 489,493 502,486" fill="#0c4d26"/>
+      <polygon points="476,456 489,463 489,493 476,486" fill="#0f6030"/>
+      <polygon points="489,449 502,456 489,463 476,456" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 11, 2025" data-v="0">
+      <title>Dec 11, 2025: 0 contributions</title>
+      <polygon points="528,484 515,491 515,493 528,486" fill="#091522"/>
+      <polygon points="502,484 515,491 515,493 502,486" fill="#0a1828"/>
+      <polygon points="515,477 528,484 515,491 502,484" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 17, 2025" data-v="3">
+      <title>Dec 17, 2025: 3 contributions</title>
+      <polygon points="554,456 541,463 541,493 554,486" fill="#0c4d26"/>
+      <polygon points="528,456 541,463 541,493 528,486" fill="#0f6030"/>
+      <polygon points="541,449 554,456 541,463 528,456" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 18, 2025" data-v="0">
+      <title>Nov 18, 2025: 0 contributions</title>
+      <polygon points="411,491 398,498 398,500 411,493" fill="#091522"/>
+      <polygon points="385,491 398,498 398,500 385,493" fill="#0a1828"/>
+      <polygon points="398,484 411,491 398,498 385,491" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 24, 2025" data-v="2">
+      <title>Nov 24, 2025: 2 contributions</title>
+      <polygon points="437,473 424,480 424,500 437,493" fill="#0c3d20"/>
+      <polygon points="411,473 424,480 424,500 411,493" fill="#0f4f28"/>
+      <polygon points="424,466 437,473 424,480 411,473" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 30, 2025" data-v="0">
+      <title>Nov 30, 2025: 0 contributions</title>
+      <polygon points="463,491 450,498 450,500 463,493" fill="#091522"/>
+      <polygon points="437,491 450,498 450,500 437,493" fill="#0a1828"/>
+      <polygon points="450,484 463,491 450,498 437,491" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 06, 2025" data-v="5">
+      <title>Dec 06, 2025: 5 contributions</title>
+      <polygon points="489,443 476,450 476,500 489,493" fill="#14763c"/>
+      <polygon points="463,443 476,450 476,500 463,493" fill="#18934a"/>
+      <polygon points="476,436 489,443 476,450 463,443" fill="#22c55e" stroke="#7c3aed" stroke-width="0.3" filter="url(#glow)"/>
+    </g><g class="block" data-date="Dec 12, 2025" data-v="0">
+      <title>Dec 12, 2025: 0 contributions</title>
+      <polygon points="515,491 502,498 502,500 515,493" fill="#091522"/>
+      <polygon points="489,491 502,498 502,500 489,493" fill="#0a1828"/>
+      <polygon points="502,484 515,491 502,498 489,491" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 18, 2025" data-v="1">
+      <title>Dec 18, 2025: 1 contribution</title>
+      <polygon points="541,483 528,490 528,500 541,493" fill="#0f2a18"/>
+      <polygon points="515,483 528,490 528,500 515,493" fill="#123520"/>
+      <polygon points="528,476 541,483 528,490 515,483" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 24, 2025" data-v="0">
+      <title>Dec 24, 2025: 0 contributions</title>
+      <polygon points="567,491 554,498 554,500 567,493" fill="#091522"/>
+      <polygon points="541,491 554,498 554,500 541,493" fill="#0a1828"/>
+      <polygon points="554,484 567,491 554,498 541,491" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Nov 25, 2025" data-v="0">
+      <title>Nov 25, 2025: 0 contributions</title>
+      <polygon points="424,498 411,505 411,507 424,500" fill="#091522"/>
+      <polygon points="398,498 411,505 411,507 398,500" fill="#0a1828"/>
+      <polygon points="411,491 424,498 411,505 398,498" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 01, 2025" data-v="3">
+      <title>Dec 01, 2025: 3 contributions</title>
+      <polygon points="450,470 437,477 437,507 450,500" fill="#0c4d26"/>
+      <polygon points="424,470 437,477 437,507 424,500" fill="#0f6030"/>
+      <polygon points="437,463 450,470 437,477 424,470" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 07, 2025" data-v="0">
+      <title>Dec 07, 2025: 0 contributions</title>
+      <polygon points="476,498 463,505 463,507 476,500" fill="#091522"/>
+      <polygon points="450,498 463,505 463,507 450,500" fill="#0a1828"/>
+      <polygon points="463,491 476,498 463,505 450,498" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 13, 2025" data-v="3">
+      <title>Dec 13, 2025: 3 contributions</title>
+      <polygon points="502,470 489,477 489,507 502,500" fill="#0c4d26"/>
+      <polygon points="476,470 489,477 489,507 476,500" fill="#0f6030"/>
+      <polygon points="489,463 502,470 489,477 476,470" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 19, 2025" data-v="0">
+      <title>Dec 19, 2025: 0 contributions</title>
+      <polygon points="528,498 515,505 515,507 528,500" fill="#091522"/>
+      <polygon points="502,498 515,505 515,507 502,500" fill="#0a1828"/>
+      <polygon points="515,491 528,498 515,505 502,498" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 25, 2025" data-v="2">
+      <title>Dec 25, 2025: 2 contributions</title>
+      <polygon points="554,480 541,487 541,507 554,500" fill="#0c3d20"/>
+      <polygon points="528,480 541,487 541,507 528,500" fill="#0f4f28"/>
+      <polygon points="541,473 554,480 541,487 528,480" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 31, 2025" data-v="0">
+      <title>Dec 31, 2025: 0 contributions</title>
+      <polygon points="580,498 567,505 567,507 580,500" fill="#091522"/>
+      <polygon points="554,498 567,505 567,507 554,500" fill="#0a1828"/>
+      <polygon points="567,491 580,498 567,505 554,498" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 02, 2025" data-v="0">
+      <title>Dec 02, 2025: 0 contributions</title>
+      <polygon points="437,505 424,512 424,514 437,507" fill="#091522"/>
+      <polygon points="411,505 424,512 424,514 411,507" fill="#0a1828"/>
+      <polygon points="424,498 437,505 424,512 411,505" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 08, 2025" data-v="0">
+      <title>Dec 08, 2025: 0 contributions</title>
+      <polygon points="463,505 450,512 450,514 463,507" fill="#091522"/>
+      <polygon points="437,505 450,512 450,514 437,507" fill="#0a1828"/>
+      <polygon points="450,498 463,505 450,512 437,505" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 14, 2025" data-v="2">
+      <title>Dec 14, 2025: 2 contributions</title>
+      <polygon points="489,487 476,494 476,514 489,507" fill="#0c3d20"/>
+      <polygon points="463,487 476,494 476,514 463,507" fill="#0f4f28"/>
+      <polygon points="476,480 489,487 476,494 463,487" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 20, 2025" data-v="0">
+      <title>Dec 20, 2025: 0 contributions</title>
+      <polygon points="515,505 502,512 502,514 515,507" fill="#091522"/>
+      <polygon points="489,505 502,512 502,514 489,507" fill="#0a1828"/>
+      <polygon points="502,498 515,505 502,512 489,505" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 26, 2025" data-v="0">
+      <title>Dec 26, 2025: 0 contributions</title>
+      <polygon points="541,505 528,512 528,514 541,507" fill="#091522"/>
+      <polygon points="515,505 528,512 528,514 515,507" fill="#0a1828"/>
+      <polygon points="528,498 541,505 528,512 515,505" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 01, 2026" data-v="1">
+      <title>Jan 01, 2026: 1 contribution</title>
+      <polygon points="567,497 554,504 554,514 567,507" fill="#0f2a18"/>
+      <polygon points="541,497 554,504 554,514 541,507" fill="#123520"/>
+      <polygon points="554,490 567,497 554,504 541,497" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 07, 2026" data-v="0">
+      <title>Jan 07, 2026: 0 contributions</title>
+      <polygon points="593,505 580,512 580,514 593,507" fill="#091522"/>
+      <polygon points="567,505 580,512 580,514 567,507" fill="#0a1828"/>
+      <polygon points="580,498 593,505 580,512 567,505" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 09, 2025" data-v="0">
+      <title>Dec 09, 2025: 0 contributions</title>
+      <polygon points="450,512 437,519 437,521 450,514" fill="#091522"/>
+      <polygon points="424,512 437,519 437,521 424,514" fill="#0a1828"/>
+      <polygon points="437,505 450,512 437,519 424,512" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 15, 2025" data-v="0">
+      <title>Dec 15, 2025: 0 contributions</title>
+      <polygon points="476,512 463,519 463,521 476,514" fill="#091522"/>
+      <polygon points="450,512 463,519 463,521 450,514" fill="#0a1828"/>
+      <polygon points="463,505 476,512 463,519 450,512" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 21, 2025" data-v="3">
+      <title>Dec 21, 2025: 3 contributions</title>
+      <polygon points="502,484 489,491 489,521 502,514" fill="#0c4d26"/>
+      <polygon points="476,484 489,491 489,521 476,514" fill="#0f6030"/>
+      <polygon points="489,477 502,484 489,491 476,484" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 27, 2025" data-v="0">
+      <title>Dec 27, 2025: 0 contributions</title>
+      <polygon points="528,512 515,519 515,521 528,514" fill="#091522"/>
+      <polygon points="502,512 515,519 515,521 502,514" fill="#0a1828"/>
+      <polygon points="515,505 528,512 515,519 502,512" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 02, 2026" data-v="3">
+      <title>Jan 02, 2026: 3 contributions</title>
+      <polygon points="554,484 541,491 541,521 554,514" fill="#0c4d26"/>
+      <polygon points="528,484 541,491 541,521 528,514" fill="#0f6030"/>
+      <polygon points="541,477 554,484 541,491 528,484" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 08, 2026" data-v="0">
+      <title>Jan 08, 2026: 0 contributions</title>
+      <polygon points="580,512 567,519 567,521 580,514" fill="#091522"/>
+      <polygon points="554,512 567,519 567,521 554,514" fill="#0a1828"/>
+      <polygon points="567,505 580,512 567,519 554,512" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 14, 2026" data-v="2">
+      <title>Jan 14, 2026: 2 contributions</title>
+      <polygon points="606,494 593,501 593,521 606,514" fill="#0c3d20"/>
+      <polygon points="580,494 593,501 593,521 580,514" fill="#0f4f28"/>
+      <polygon points="593,487 606,494 593,501 580,494" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 16, 2025" data-v="0">
+      <title>Dec 16, 2025: 0 contributions</title>
+      <polygon points="463,519 450,526 450,528 463,521" fill="#091522"/>
+      <polygon points="437,519 450,526 450,528 437,521" fill="#0a1828"/>
+      <polygon points="450,512 463,519 450,526 437,519" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 22, 2025" data-v="0">
+      <title>Dec 22, 2025: 0 contributions</title>
+      <polygon points="489,519 476,526 476,528 489,521" fill="#091522"/>
+      <polygon points="463,519 476,526 476,528 463,521" fill="#0a1828"/>
+      <polygon points="476,512 489,519 476,526 463,519" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 28, 2025" data-v="1">
+      <title>Dec 28, 2025: 1 contribution</title>
+      <polygon points="515,511 502,518 502,528 515,521" fill="#0f2a18"/>
+      <polygon points="489,511 502,518 502,528 489,521" fill="#123520"/>
+      <polygon points="502,504 515,511 502,518 489,511" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 03, 2026" data-v="0">
+      <title>Jan 03, 2026: 0 contributions</title>
+      <polygon points="541,519 528,526 528,528 541,521" fill="#091522"/>
+      <polygon points="515,519 528,526 528,528 515,521" fill="#0a1828"/>
+      <polygon points="528,512 541,519 528,526 515,519" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 09, 2026" data-v="4">
+      <title>Jan 09, 2026: 4 contributions</title>
+      <polygon points="567,481 554,488 554,528 567,521" fill="#0c622d"/>
+      <polygon points="541,481 554,488 554,528 541,521" fill="#0f7a38"/>
+      <polygon points="554,474 567,481 554,488 541,481" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 15, 2026" data-v="0">
+      <title>Jan 15, 2026: 0 contributions</title>
+      <polygon points="593,519 580,526 580,528 593,521" fill="#091522"/>
+      <polygon points="567,519 580,526 580,528 567,521" fill="#0a1828"/>
+      <polygon points="580,512 593,519 580,526 567,519" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 21, 2026" data-v="4">
+      <title>Jan 21, 2026: 4 contributions</title>
+      <polygon points="619,481 606,488 606,528 619,521" fill="#0c622d"/>
+      <polygon points="593,481 606,488 606,528 593,521" fill="#0f7a38"/>
+      <polygon points="606,474 619,481 606,488 593,481" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 23, 2025" data-v="0">
+      <title>Dec 23, 2025: 0 contributions</title>
+      <polygon points="476,526 463,533 463,535 476,528" fill="#091522"/>
+      <polygon points="450,526 463,533 463,535 450,528" fill="#0a1828"/>
+      <polygon points="463,519 476,526 463,533 450,526" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 29, 2025" data-v="4">
+      <title>Dec 29, 2025: 4 contributions</title>
+      <polygon points="502,488 489,495 489,535 502,528" fill="#0c622d"/>
+      <polygon points="476,488 489,495 489,535 476,528" fill="#0f7a38"/>
+      <polygon points="489,481 502,488 489,495 476,488" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 04, 2026" data-v="0">
+      <title>Jan 04, 2026: 0 contributions</title>
+      <polygon points="528,526 515,533 515,535 528,528" fill="#091522"/>
+      <polygon points="502,526 515,533 515,535 502,528" fill="#0a1828"/>
+      <polygon points="515,519 528,526 515,533 502,526" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 10, 2026" data-v="4">
+      <title>Jan 10, 2026: 4 contributions</title>
+      <polygon points="554,488 541,495 541,535 554,528" fill="#0c622d"/>
+      <polygon points="528,488 541,495 541,535 528,528" fill="#0f7a38"/>
+      <polygon points="541,481 554,488 541,495 528,488" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 16, 2026" data-v="0">
+      <title>Jan 16, 2026: 0 contributions</title>
+      <polygon points="580,526 567,533 567,535 580,528" fill="#091522"/>
+      <polygon points="554,526 567,533 567,535 554,528" fill="#0a1828"/>
+      <polygon points="567,519 580,526 567,533 554,526" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 22, 2026" data-v="1">
+      <title>Jan 22, 2026: 1 contribution</title>
+      <polygon points="606,518 593,525 593,535 606,528" fill="#0f2a18"/>
+      <polygon points="580,518 593,525 593,535 580,528" fill="#123520"/>
+      <polygon points="593,511 606,518 593,525 580,518" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 28, 2026" data-v="0">
+      <title>Jan 28, 2026: 0 contributions</title>
+      <polygon points="632,526 619,533 619,535 632,528" fill="#091522"/>
+      <polygon points="606,526 619,533 619,535 606,528" fill="#0a1828"/>
+      <polygon points="619,519 632,526 619,533 606,526" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Dec 30, 2025" data-v="0">
+      <title>Dec 30, 2025: 0 contributions</title>
+      <polygon points="489,533 476,540 476,542 489,535" fill="#091522"/>
+      <polygon points="463,533 476,540 476,542 463,535" fill="#0a1828"/>
+      <polygon points="476,526 489,533 476,540 463,533" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 05, 2026" data-v="4">
+      <title>Jan 05, 2026: 4 contributions</title>
+      <polygon points="515,495 502,502 502,542 515,535" fill="#0c622d"/>
+      <polygon points="489,495 502,502 502,542 489,535" fill="#0f7a38"/>
+      <polygon points="502,488 515,495 502,502 489,495" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 11, 2026" data-v="0">
+      <title>Jan 11, 2026: 0 contributions</title>
+      <polygon points="541,533 528,540 528,542 541,535" fill="#091522"/>
+      <polygon points="515,533 528,540 528,542 515,535" fill="#0a1828"/>
+      <polygon points="528,526 541,533 528,540 515,533" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 17, 2026" data-v="4">
+      <title>Jan 17, 2026: 4 contributions</title>
+      <polygon points="567,495 554,502 554,542 567,535" fill="#0c622d"/>
+      <polygon points="541,495 554,502 554,542 541,535" fill="#0f7a38"/>
+      <polygon points="554,488 567,495 554,502 541,495" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 23, 2026" data-v="0">
+      <title>Jan 23, 2026: 0 contributions</title>
+      <polygon points="593,533 580,540 580,542 593,535" fill="#091522"/>
+      <polygon points="567,533 580,540 580,542 567,535" fill="#0a1828"/>
+      <polygon points="580,526 593,533 580,540 567,533" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 29, 2026" data-v="4">
+      <title>Jan 29, 2026: 4 contributions</title>
+      <polygon points="619,495 606,502 606,542 619,535" fill="#0c622d"/>
+      <polygon points="593,495 606,502 606,542 593,535" fill="#0f7a38"/>
+      <polygon points="606,488 619,495 606,502 593,495" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 04, 2026" data-v="0">
+      <title>Feb 04, 2026: 0 contributions</title>
+      <polygon points="645,533 632,540 632,542 645,535" fill="#091522"/>
+      <polygon points="619,533 632,540 632,542 619,535" fill="#0a1828"/>
+      <polygon points="632,526 645,533 632,540 619,533" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 06, 2026" data-v="0">
+      <title>Jan 06, 2026: 0 contributions</title>
+      <polygon points="502,540 489,547 489,549 502,542" fill="#091522"/>
+      <polygon points="476,540 489,547 489,549 476,542" fill="#0a1828"/>
+      <polygon points="489,533 502,540 489,547 476,540" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 12, 2026" data-v="0">
+      <title>Jan 12, 2026: 0 contributions</title>
+      <polygon points="528,540 515,547 515,549 528,542" fill="#091522"/>
+      <polygon points="502,540 515,547 515,549 502,542" fill="#0a1828"/>
+      <polygon points="515,533 528,540 515,547 502,540" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 18, 2026" data-v="1">
+      <title>Jan 18, 2026: 1 contribution</title>
+      <polygon points="554,532 541,539 541,549 554,542" fill="#0f2a18"/>
+      <polygon points="528,532 541,539 541,549 528,542" fill="#123520"/>
+      <polygon points="541,525 554,532 541,539 528,532" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 24, 2026" data-v="0">
+      <title>Jan 24, 2026: 0 contributions</title>
+      <polygon points="580,540 567,547 567,549 580,542" fill="#091522"/>
+      <polygon points="554,540 567,547 567,549 554,542" fill="#0a1828"/>
+      <polygon points="567,533 580,540 567,547 554,540" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 30, 2026" data-v="0">
+      <title>Jan 30, 2026: 0 contributions</title>
+      <polygon points="606,540 593,547 593,549 606,542" fill="#091522"/>
+      <polygon points="580,540 593,547 593,549 580,542" fill="#0a1828"/>
+      <polygon points="593,533 606,540 593,547 580,540" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 05, 2026" data-v="1">
+      <title>Feb 05, 2026: 1 contribution</title>
+      <polygon points="632,532 619,539 619,549 632,542" fill="#0f2a18"/>
+      <polygon points="606,532 619,539 619,549 606,542" fill="#123520"/>
+      <polygon points="619,525 632,532 619,539 606,532" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 11, 2026" data-v="0">
+      <title>Feb 11, 2026: 0 contributions</title>
+      <polygon points="658,540 645,547 645,549 658,542" fill="#091522"/>
+      <polygon points="632,540 645,547 645,549 632,542" fill="#0a1828"/>
+      <polygon points="645,533 658,540 645,547 632,540" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 13, 2026" data-v="0">
+      <title>Jan 13, 2026: 0 contributions</title>
+      <polygon points="515,547 502,554 502,556 515,549" fill="#091522"/>
+      <polygon points="489,547 502,554 502,556 489,549" fill="#0a1828"/>
+      <polygon points="502,540 515,547 502,554 489,547" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 19, 2026" data-v="0">
+      <title>Jan 19, 2026: 0 contributions</title>
+      <polygon points="541,547 528,554 528,556 541,549" fill="#091522"/>
+      <polygon points="515,547 528,554 528,556 515,549" fill="#0a1828"/>
+      <polygon points="528,540 541,547 528,554 515,547" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 25, 2026" data-v="2">
+      <title>Jan 25, 2026: 2 contributions</title>
+      <polygon points="567,529 554,536 554,556 567,549" fill="#0c3d20"/>
+      <polygon points="541,529 554,536 554,556 541,549" fill="#0f4f28"/>
+      <polygon points="554,522 567,529 554,536 541,529" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 31, 2026" data-v="0">
+      <title>Jan 31, 2026: 0 contributions</title>
+      <polygon points="593,547 580,554 580,556 593,549" fill="#091522"/>
+      <polygon points="567,547 580,554 580,556 567,549" fill="#0a1828"/>
+      <polygon points="580,540 593,547 580,554 567,547" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 06, 2026" data-v="4">
+      <title>Feb 06, 2026: 4 contributions</title>
+      <polygon points="619,509 606,516 606,556 619,549" fill="#0c622d"/>
+      <polygon points="593,509 606,516 606,556 593,549" fill="#0f7a38"/>
+      <polygon points="606,502 619,509 606,516 593,509" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 12, 2026" data-v="0">
+      <title>Feb 12, 2026: 0 contributions</title>
+      <polygon points="645,547 632,554 632,556 645,549" fill="#091522"/>
+      <polygon points="619,547 632,554 632,556 619,549" fill="#0a1828"/>
+      <polygon points="632,540 645,547 632,554 619,547" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 18, 2026" data-v="3">
+      <title>Feb 18, 2026: 3 contributions</title>
+      <polygon points="671,519 658,526 658,556 671,549" fill="#0c4d26"/>
+      <polygon points="645,519 658,526 658,556 645,549" fill="#0f6030"/>
+      <polygon points="658,512 671,519 658,526 645,519" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 20, 2026" data-v="0">
+      <title>Jan 20, 2026: 0 contributions</title>
+      <polygon points="528,554 515,561 515,563 528,556" fill="#091522"/>
+      <polygon points="502,554 515,561 515,563 502,556" fill="#0a1828"/>
+      <polygon points="515,547 528,554 515,561 502,554" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 26, 2026" data-v="0">
+      <title>Jan 26, 2026: 0 contributions</title>
+      <polygon points="554,554 541,561 541,563 554,556" fill="#091522"/>
+      <polygon points="528,554 541,561 541,563 528,556" fill="#0a1828"/>
+      <polygon points="541,547 554,554 541,561 528,554" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 01, 2026" data-v="1">
+      <title>Feb 01, 2026: 1 contribution</title>
+      <polygon points="580,546 567,553 567,563 580,556" fill="#0f2a18"/>
+      <polygon points="554,546 567,553 567,563 554,556" fill="#123520"/>
+      <polygon points="567,539 580,546 567,553 554,546" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 07, 2026" data-v="0">
+      <title>Feb 07, 2026: 0 contributions</title>
+      <polygon points="606,554 593,561 593,563 606,556" fill="#091522"/>
+      <polygon points="580,554 593,561 593,563 580,556" fill="#0a1828"/>
+      <polygon points="593,547 606,554 593,561 580,554" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 13, 2026" data-v="3">
+      <title>Feb 13, 2026: 3 contributions</title>
+      <polygon points="632,526 619,533 619,563 632,556" fill="#0c4d26"/>
+      <polygon points="606,526 619,533 619,563 606,556" fill="#0f6030"/>
+      <polygon points="619,519 632,526 619,533 606,526" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 19, 2026" data-v="0">
+      <title>Feb 19, 2026: 0 contributions</title>
+      <polygon points="658,554 645,561 645,563 658,556" fill="#091522"/>
+      <polygon points="632,554 645,561 645,563 632,556" fill="#0a1828"/>
+      <polygon points="645,547 658,554 645,561 632,554" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 25, 2026" data-v="4">
+      <title>Feb 25, 2026: 4 contributions</title>
+      <polygon points="684,516 671,523 671,563 684,556" fill="#0c622d"/>
+      <polygon points="658,516 671,523 671,563 658,556" fill="#0f7a38"/>
+      <polygon points="671,509 684,516 671,523 658,516" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Jan 27, 2026" data-v="0">
+      <title>Jan 27, 2026: 0 contributions</title>
+      <polygon points="541,561 528,568 528,570 541,563" fill="#091522"/>
+      <polygon points="515,561 528,568 528,570 515,563" fill="#0a1828"/>
+      <polygon points="528,554 541,561 528,568 515,561" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 02, 2026" data-v="4">
+      <title>Feb 02, 2026: 4 contributions</title>
+      <polygon points="567,523 554,530 554,570 567,563" fill="#0c622d"/>
+      <polygon points="541,523 554,530 554,570 541,563" fill="#0f7a38"/>
+      <polygon points="554,516 567,523 554,530 541,523" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 08, 2026" data-v="0">
+      <title>Feb 08, 2026: 0 contributions</title>
+      <polygon points="593,561 580,568 580,570 593,563" fill="#091522"/>
+      <polygon points="567,561 580,568 580,570 567,563" fill="#0a1828"/>
+      <polygon points="580,554 593,561 580,568 567,561" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 14, 2026" data-v="3">
+      <title>Feb 14, 2026: 3 contributions</title>
+      <polygon points="619,533 606,540 606,570 619,563" fill="#0c4d26"/>
+      <polygon points="593,533 606,540 606,570 593,563" fill="#0f6030"/>
+      <polygon points="606,526 619,533 606,540 593,533" fill="#15803d" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 20, 2026" data-v="0">
+      <title>Feb 20, 2026: 0 contributions</title>
+      <polygon points="645,561 632,568 632,570 645,563" fill="#091522"/>
+      <polygon points="619,561 632,568 632,570 619,563" fill="#0a1828"/>
+      <polygon points="632,554 645,561 632,568 619,561" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 26, 2026" data-v="0">
+      <title>Feb 26, 2026: 0 contributions</title>
+      <polygon points="671,561 658,568 658,570 671,563" fill="#091522"/>
+      <polygon points="645,561 658,568 658,570 645,563" fill="#0a1828"/>
+      <polygon points="658,554 671,561 658,568 645,561" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 04, 2026" data-v="0">
+      <title>Mar 04, 2026: 0 contributions</title>
+      <polygon points="697,561 684,568 684,570 697,563" fill="#091522"/>
+      <polygon points="671,561 684,568 684,570 671,563" fill="#0a1828"/>
+      <polygon points="684,554 697,561 684,568 671,561" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 03, 2026" data-v="0">
+      <title>Feb 03, 2026: 0 contributions</title>
+      <polygon points="554,568 541,575 541,577 554,570" fill="#091522"/>
+      <polygon points="528,568 541,575 541,577 528,570" fill="#0a1828"/>
+      <polygon points="541,561 554,568 541,575 528,568" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 09, 2026" data-v="2">
+      <title>Feb 09, 2026: 2 contributions</title>
+      <polygon points="580,550 567,557 567,577 580,570" fill="#0c3d20"/>
+      <polygon points="554,550 567,557 567,577 554,570" fill="#0f4f28"/>
+      <polygon points="567,543 580,550 567,557 554,550" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 15, 2026" data-v="0">
+      <title>Feb 15, 2026: 0 contributions</title>
+      <polygon points="606,568 593,575 593,577 606,570" fill="#091522"/>
+      <polygon points="580,568 593,575 593,577 580,570" fill="#0a1828"/>
+      <polygon points="593,561 606,568 593,575 580,568" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 21, 2026" data-v="4">
+      <title>Feb 21, 2026: 4 contributions</title>
+      <polygon points="632,530 619,537 619,577 632,570" fill="#0c622d"/>
+      <polygon points="606,530 619,537 619,577 606,570" fill="#0f7a38"/>
+      <polygon points="619,523 632,530 619,537 606,530" fill="#16a34a" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 27, 2026" data-v="0">
+      <title>Feb 27, 2026: 0 contributions</title>
+      <polygon points="658,568 645,575 645,577 658,570" fill="#091522"/>
+      <polygon points="632,568 645,575 645,577 632,570" fill="#0a1828"/>
+      <polygon points="645,561 658,568 645,575 632,568" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 05, 2026" data-v="1">
+      <title>Mar 05, 2026: 1 contribution</title>
+      <polygon points="684,560 671,567 671,577 684,570" fill="#0f2a18"/>
+      <polygon points="658,560 671,567 671,577 658,570" fill="#123520"/>
+      <polygon points="671,553 684,560 671,567 658,560" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 11, 2026" data-v="0">
+      <title>Mar 11, 2026: 0 contributions</title>
+      <polygon points="710,568 697,575 697,577 710,570" fill="#091522"/>
+      <polygon points="684,568 697,575 697,577 684,570" fill="#0a1828"/>
+      <polygon points="697,561 710,568 697,575 684,568" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 10, 2026" data-v="0">
+      <title>Feb 10, 2026: 0 contributions</title>
+      <polygon points="567,575 554,582 554,584 567,577" fill="#091522"/>
+      <polygon points="541,575 554,582 554,584 541,577" fill="#0a1828"/>
+      <polygon points="554,568 567,575 554,582 541,575" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 16, 2026" data-v="0">
+      <title>Feb 16, 2026: 0 contributions</title>
+      <polygon points="593,575 580,582 580,584 593,577" fill="#091522"/>
+      <polygon points="567,575 580,582 580,584 567,577" fill="#0a1828"/>
+      <polygon points="580,568 593,575 580,582 567,575" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 22, 2026" data-v="1">
+      <title>Feb 22, 2026: 1 contribution</title>
+      <polygon points="619,567 606,574 606,584 619,577" fill="#0f2a18"/>
+      <polygon points="593,567 606,574 606,584 593,577" fill="#123520"/>
+      <polygon points="606,560 619,567 606,574 593,567" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 28, 2026" data-v="0">
+      <title>Feb 28, 2026: 0 contributions</title>
+      <polygon points="645,575 632,582 632,584 645,577" fill="#091522"/>
+      <polygon points="619,575 632,582 632,584 619,577" fill="#0a1828"/>
+      <polygon points="632,568 645,575 632,582 619,575" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 06, 2026" data-v="1">
+      <title>Mar 06, 2026: 1 contribution</title>
+      <polygon points="671,567 658,574 658,584 671,577" fill="#0f2a18"/>
+      <polygon points="645,567 658,574 658,584 645,577" fill="#123520"/>
+      <polygon points="658,560 671,567 658,574 645,567" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 12, 2026" data-v="1">
+      <title>Mar 12, 2026: 1 contribution</title>
+      <polygon points="697,567 684,574 684,584 697,577" fill="#0f2a18"/>
+      <polygon points="671,567 684,574 684,584 671,577" fill="#123520"/>
+      <polygon points="684,560 697,567 684,574 671,567" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 18, 2026" data-v="0">
+      <title>Mar 18, 2026: 0 contributions</title>
+      <polygon points="723,575 710,582 710,584 723,577" fill="#091522"/>
+      <polygon points="697,575 710,582 710,584 697,577" fill="#0a1828"/>
+      <polygon points="710,568 723,575 710,582 697,575" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 17, 2026" data-v="0">
+      <title>Feb 17, 2026: 0 contributions</title>
+      <polygon points="580,582 567,589 567,591 580,584" fill="#091522"/>
+      <polygon points="554,582 567,589 567,591 554,584" fill="#0a1828"/>
+      <polygon points="567,575 580,582 567,589 554,582" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 23, 2026" data-v="0">
+      <title>Feb 23, 2026: 0 contributions</title>
+      <polygon points="606,582 593,589 593,591 606,584" fill="#091522"/>
+      <polygon points="580,582 593,589 593,591 580,584" fill="#0a1828"/>
+      <polygon points="593,575 606,582 593,589 580,582" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 01, 2026" data-v="1">
+      <title>Mar 01, 2026: 1 contribution</title>
+      <polygon points="632,574 619,581 619,591 632,584" fill="#0f2a18"/>
+      <polygon points="606,574 619,581 619,591 606,584" fill="#123520"/>
+      <polygon points="619,567 632,574 619,581 606,574" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 07, 2026" data-v="0">
+      <title>Mar 07, 2026: 0 contributions</title>
+      <polygon points="658,582 645,589 645,591 658,584" fill="#091522"/>
+      <polygon points="632,582 645,589 645,591 632,584" fill="#0a1828"/>
+      <polygon points="645,575 658,582 645,589 632,582" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 13, 2026" data-v="0">
+      <title>Mar 13, 2026: 0 contributions</title>
+      <polygon points="684,582 671,589 671,591 684,584" fill="#091522"/>
+      <polygon points="658,582 671,589 671,591 658,584" fill="#0a1828"/>
+      <polygon points="671,575 684,582 671,589 658,582" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 19, 2026" data-v="1">
+      <title>Mar 19, 2026: 1 contribution</title>
+      <polygon points="710,574 697,581 697,591 710,584" fill="#0f2a18"/>
+      <polygon points="684,574 697,581 697,591 684,584" fill="#123520"/>
+      <polygon points="697,567 710,574 697,581 684,574" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 25, 2026" data-v="1">
+      <title>Mar 25, 2026: 1 contribution</title>
+      <polygon points="736,574 723,581 723,591 736,584" fill="#0f2a18"/>
+      <polygon points="710,574 723,581 723,591 710,584" fill="#123520"/>
+      <polygon points="723,567 736,574 723,581 710,574" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Feb 24, 2026" data-v="0">
+      <title>Feb 24, 2026: 0 contributions</title>
+      <polygon points="593,589 580,596 580,598 593,591" fill="#091522"/>
+      <polygon points="567,589 580,596 580,598 567,591" fill="#0a1828"/>
+      <polygon points="580,582 593,589 580,596 567,589" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 02, 2026" data-v="0">
+      <title>Mar 02, 2026: 0 contributions</title>
+      <polygon points="619,589 606,596 606,598 619,591" fill="#091522"/>
+      <polygon points="593,589 606,596 606,598 593,591" fill="#0a1828"/>
+      <polygon points="606,582 619,589 606,596 593,589" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 08, 2026" data-v="2">
+      <title>Mar 08, 2026: 2 contributions</title>
+      <polygon points="645,571 632,578 632,598 645,591" fill="#0c3d20"/>
+      <polygon points="619,571 632,578 632,598 619,591" fill="#0f4f28"/>
+      <polygon points="632,564 645,571 632,578 619,571" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 14, 2026" data-v="1">
+      <title>Mar 14, 2026: 1 contribution</title>
+      <polygon points="671,581 658,588 658,598 671,591" fill="#0f2a18"/>
+      <polygon points="645,581 658,588 658,598 645,591" fill="#123520"/>
+      <polygon points="658,574 671,581 658,588 645,581" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 20, 2026" data-v="0">
+      <title>Mar 20, 2026: 0 contributions</title>
+      <polygon points="697,589 684,596 684,598 697,591" fill="#091522"/>
+      <polygon points="671,589 684,596 684,598 671,591" fill="#0a1828"/>
+      <polygon points="684,582 697,589 684,596 671,589" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 26, 2026" data-v="0">
+      <title>Mar 26, 2026: 0 contributions</title>
+      <polygon points="723,589 710,596 710,598 723,591" fill="#091522"/>
+      <polygon points="697,589 710,596 710,598 697,591" fill="#0a1828"/>
+      <polygon points="710,582 723,589 710,596 697,589" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 03, 2026" data-v="1">
+      <title>Mar 03, 2026: 1 contribution</title>
+      <polygon points="606,588 593,595 593,605 606,598" fill="#0f2a18"/>
+      <polygon points="580,588 593,595 593,605 580,598" fill="#123520"/>
+      <polygon points="593,581 606,588 593,595 580,588" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 09, 2026" data-v="0">
+      <title>Mar 09, 2026: 0 contributions</title>
+      <polygon points="632,596 619,603 619,605 632,598" fill="#091522"/>
+      <polygon points="606,596 619,603 619,605 606,598" fill="#0a1828"/>
+      <polygon points="619,589 632,596 619,603 606,596" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 15, 2026" data-v="1">
+      <title>Mar 15, 2026: 1 contribution</title>
+      <polygon points="658,588 645,595 645,605 658,598" fill="#0f2a18"/>
+      <polygon points="632,588 645,595 645,605 632,598" fill="#123520"/>
+      <polygon points="645,581 658,588 645,595 632,588" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 21, 2026" data-v="1">
+      <title>Mar 21, 2026: 1 contribution</title>
+      <polygon points="684,588 671,595 671,605 684,598" fill="#0f2a18"/>
+      <polygon points="658,588 671,595 671,605 658,598" fill="#123520"/>
+      <polygon points="671,581 684,588 671,595 658,588" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 27, 2026" data-v="1">
+      <title>Mar 27, 2026: 1 contribution</title>
+      <polygon points="710,588 697,595 697,605 710,598" fill="#0f2a18"/>
+      <polygon points="684,588 697,595 697,605 684,598" fill="#123520"/>
+      <polygon points="697,581 710,588 697,595 684,588" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 10, 2026" data-v="1">
+      <title>Mar 10, 2026: 1 contribution</title>
+      <polygon points="619,595 606,602 606,612 619,605" fill="#0f2a18"/>
+      <polygon points="593,595 606,602 606,612 593,605" fill="#123520"/>
+      <polygon points="606,588 619,595 606,602 593,595" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 16, 2026" data-v="1">
+      <title>Mar 16, 2026: 1 contribution</title>
+      <polygon points="645,595 632,602 632,612 645,605" fill="#0f2a18"/>
+      <polygon points="619,595 632,602 632,612 619,605" fill="#123520"/>
+      <polygon points="632,588 645,595 632,602 619,595" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 22, 2026" data-v="1">
+      <title>Mar 22, 2026: 1 contribution</title>
+      <polygon points="671,595 658,602 658,612 671,605" fill="#0f2a18"/>
+      <polygon points="645,595 658,602 658,612 645,605" fill="#123520"/>
+      <polygon points="658,588 671,595 658,602 645,595" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 28, 2026" data-v="2">
+      <title>Mar 28, 2026: 2 contributions</title>
+      <polygon points="697,585 684,592 684,612 697,605" fill="#0c3d20"/>
+      <polygon points="671,585 684,592 684,612 671,605" fill="#0f4f28"/>
+      <polygon points="684,578 697,585 684,592 671,585" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 17, 2026" data-v="1">
+      <title>Mar 17, 2026: 1 contribution</title>
+      <polygon points="632,602 619,609 619,619 632,612" fill="#0f2a18"/>
+      <polygon points="606,602 619,609 619,619 606,612" fill="#123520"/>
+      <polygon points="619,595 632,602 619,609 606,602" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 23, 2026" data-v="0">
+      <title>Mar 23, 2026: 0 contributions</title>
+      <polygon points="658,610 645,617 645,619 658,612" fill="#091522"/>
+      <polygon points="632,610 645,617 645,619 632,612" fill="#0a1828"/>
+      <polygon points="645,603 658,610 645,617 632,610" fill="#0d1f35" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 29, 2026" data-v="6">
+      <title>Mar 29, 2026: 6 contributions</title>
+      <polygon points="684,552 671,559 671,619 684,612" fill="#239349"/>
+      <polygon points="658,552 671,559 671,619 658,612" fill="#2db862"/>
+      <polygon points="671,545 684,552 671,559 658,552" fill="#4ade80" stroke="#7c3aed" stroke-width="0.3" filter="url(#glow)"/>
+    </g><g class="block" data-date="Mar 24, 2026" data-v="1">
+      <title>Mar 24, 2026: 1 contribution</title>
+      <polygon points="645,609 632,616 632,626 645,619" fill="#0f2a18"/>
+      <polygon points="619,609 632,616 632,626 619,619" fill="#123520"/>
+      <polygon points="632,602 645,609 632,616 619,609" fill="#1a4a2e" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g><g class="block" data-date="Mar 30, 2026" data-v="5">
+      <title>Mar 30, 2026: 5 contributions</title>
+      <polygon points="671,569 658,576 658,626 671,619" fill="#14763c"/>
+      <polygon points="645,569 658,576 658,626 645,619" fill="#18934a"/>
+      <polygon points="658,562 671,569 658,576 645,569" fill="#22c55e" stroke="#7c3aed" stroke-width="0.3" filter="url(#glow)"/>
+    </g><g class="block" data-date="Mar 31, 2026" data-v="2">
+      <title>Mar 31, 2026: 2 contributions</title>
+      <polygon points="658,606 645,613 645,633 658,626" fill="#0c3d20"/>
+      <polygon points="632,606 645,613 645,633 632,626" fill="#0f4f28"/>
+      <polygon points="645,599 658,606 645,613 632,606" fill="#166534" stroke="rgba(255,255,255,0.04)" stroke-width="0.3"/>
+    </g>
+  
+  <!-- Stats overlay top-right -->
+  <g transform="translate(720, 30)">
+    <rect width="165" height="140" rx="10" fill="#0f1520" stroke="#1e2d40" stroke-width="1"/>
+    <text x="12" y="22" fill="#7c3aed" font-size="10" font-family="JetBrains Mono,monospace" font-weight="600">⣿ Commit Streaks</text>
+    <text x="12" y="42" fill="#475569" font-size="9" font-family="JetBrains Mono,monospace">🔥 Current streak</text>
+    <text x="130" y="42" fill="#e2e8f0" font-size="9" font-family="JetBrains Mono,monospace" text-anchor="end">4 days</text>
+    <text x="12" y="58" fill="#475569" font-size="9" font-family="JetBrains Mono,monospace">✦ Best streak</text>
+    <text x="130" y="58" fill="#e2e8f0" font-size="9" font-family="JetBrains Mono,monospace" text-anchor="end">7 days</text>
+    <line x1="12" y1="68" x2="153" y2="68" stroke="#1e2d40" stroke-width="0.8"/>
+    <text x="12" y="84" fill="#06b6d4" font-size="10" font-family="JetBrains Mono,monospace" font-weight="600">⊹ Commits per day</text>
+    <text x="12" y="102" fill="#475569" font-size="9" font-family="JetBrains Mono,monospace">↑ Highest in a day</text>
+    <text x="130" y="102" fill="#e2e8f0" font-size="9" font-family="JetBrains Mono,monospace" text-anchor="end">6</text>
+    <text x="12" y="118" fill="#475569" font-size="9" font-family="JetBrains Mono,monospace">⊹ Avg per day</text>
+    <text x="130" y="118" fill="#e2e8f0" font-size="9" font-family="JetBrains Mono,monospace" text-anchor="end">~0.53</text>
+    <line x1="12" y1="128" x2="153" y2="128" stroke="#1e2d40" stroke-width="0.8"/>
+    <text x="12" y="138" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace">Auto-refreshed daily</text>
+  </g>
+  
+  <!-- Legend -->
+  <g transform="translate(60, 345)">
+    <text x="0" y="10" fill="#475569" font-size="9" font-family="JetBrains Mono,monospace">Less</text>
+    <rect x="30" y="0" width="12" height="12" rx="2" fill="#0d1f35"/>
+    <rect x="46" y="0" width="12" height="12" rx="2" fill="#1a4a2e"/>
+    <rect x="62" y="0" width="12" height="12" rx="2" fill="#16a34a"/>
+    <rect x="78" y="0" width="12" height="12" rx="2" fill="#22c55e"/>
+    <rect x="94" y="0" width="12" height="12" rx="2" fill="#4ade80"/>
+    <text x="110" y="10" fill="#475569" font-size="9" font-family="JetBrains Mono,monospace">More</text>
+  </g>
+</svg>

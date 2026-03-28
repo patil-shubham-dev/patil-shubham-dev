@@ -1,0 +1,52 @@
+<svg width="780" height="110" viewBox="0 0 780 110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="780" height="110" rx="10" fill="#0d1117"/>
+
+  <rect x="10" y="8" width="100" height="94" rx="8" fill="#0f1520" stroke="#1e2d40" stroke-width="1"/>
+  <text x="60" y="35" font-size="20" text-anchor="middle">🏆</text>
+  <text x="60" y="58" fill="#c084fc" font-size="11" font-weight="700" font-family="JetBrains Mono,monospace" text-anchor="middle">S</text>
+  <text x="60" y="74" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace" text-anchor="middle">First Commit</text>
+  <rect x="40" y="80" width="40" height="14" rx="4" fill="#1e2d40"/>
+  <text x="60" y="90" fill="#c084fc" font-size="7" font-family="JetBrains Mono,monospace" text-anchor="middle" font-weight="600">RANK S</text>
+
+  <rect x="120" y="8" width="100" height="94" rx="8" fill="#0f1520" stroke="#1e2d40" stroke-width="1"/>
+  <text x="170" y="35" font-size="20" text-anchor="middle">⭐</text>
+  <text x="170" y="58" fill="#94a3b8" font-size="11" font-weight="700" font-family="JetBrains Mono,monospace" text-anchor="middle">B</text>
+  <text x="170" y="74" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace" text-anchor="middle">Stars</text>
+  <rect x="150" y="80" width="40" height="14" rx="4" fill="#1e2d40"/>
+  <text x="170" y="90" fill="#94a3b8" font-size="7" font-family="JetBrains Mono,monospace" text-anchor="middle" font-weight="600">RANK B</text>
+
+  <rect x="230" y="8" width="100" height="94" rx="8" fill="#0f1520" stroke="#1e2d40" stroke-width="1"/>
+  <text x="280" y="35" font-size="20" text-anchor="middle">🔄</text>
+  <text x="280" y="58" fill="#818cf8" font-size="11" font-weight="700" font-family="JetBrains Mono,monospace" text-anchor="middle">A</text>
+  <text x="280" y="74" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace" text-anchor="middle">Commits</text>
+  <rect x="260" y="80" width="40" height="14" rx="4" fill="#1e2d40"/>
+  <text x="280" y="90" fill="#818cf8" font-size="7" font-family="JetBrains Mono,monospace" text-anchor="middle" font-weight="600">RANK A</text>
+
+  <rect x="340" y="8" width="100" height="94" rx="8" fill="#0f1520" stroke="#1e2d40" stroke-width="1"/>
+  <text x="390" y="35" font-size="20" text-anchor="middle">👥</text>
+  <text x="390" y="58" fill="#94a3b8" font-size="11" font-weight="700" font-family="JetBrains Mono,monospace" text-anchor="middle">B</text>
+  <text x="390" y="74" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace" text-anchor="middle">Followers</text>
+  <rect x="370" y="80" width="40" height="14" rx="4" fill="#1e2d40"/>
+  <text x="390" y="90" fill="#94a3b8" font-size="7" font-family="JetBrains Mono,monospace" text-anchor="middle" font-weight="600">RANK B</text>
+
+  <rect x="450" y="8" width="100" height="94" rx="8" fill="#0f1520" stroke="#1e2d40" stroke-width="1"/>
+  <text x="500" y="35" font-size="20" text-anchor="middle">📦</text>
+  <text x="500" y="58" fill="#818cf8" font-size="11" font-weight="700" font-family="JetBrains Mono,monospace" text-anchor="middle">A</text>
+  <text x="500" y="74" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace" text-anchor="middle">Repos</text>
+  <rect x="480" y="80" width="40" height="14" rx="4" fill="#1e2d40"/>
+  <text x="500" y="90" fill="#818cf8" font-size="7" font-family="JetBrains Mono,monospace" text-anchor="middle" font-weight="600">RANK A</text>
+
+  <rect x="560" y="8" width="100" height="94" rx="8" fill="#0f1520" stroke="#1e2d40" stroke-width="1"/>
+  <text x="610" y="35" font-size="20" text-anchor="middle">🔀</text>
+  <text x="610" y="58" fill="#94a3b8" font-size="11" font-weight="700" font-family="JetBrains Mono,monospace" text-anchor="middle">B</text>
+  <text x="610" y="74" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace" text-anchor="middle">Pull Request</text>
+  <rect x="590" y="80" width="40" height="14" rx="4" fill="#1e2d40"/>
+  <text x="610" y="90" fill="#94a3b8" font-size="7" font-family="JetBrains Mono,monospace" text-anchor="middle" font-weight="600">RANK B</text>
+
+  <rect x="670" y="8" width="100" height="94" rx="8" fill="#0f1520" stroke="#1e2d40" stroke-width="1"/>
+  <text x="720" y="35" font-size="20" text-anchor="middle">🐛</text>
+  <text x="720" y="58" fill="#94a3b8" font-size="11" font-weight="700" font-family="JetBrains Mono,monospace" text-anchor="middle">B</text>
+  <text x="720" y="74" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace" text-anchor="middle">Issues</text>
+  <rect x="700" y="80" width="40" height="14" rx="4" fill="#1e2d40"/>
+  <text x="720" y="90" fill="#94a3b8" font-size="7" font-family="JetBrains Mono,monospace" text-anchor="middle" font-weight="600">RANK B</text>
+</svg>

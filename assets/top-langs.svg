@@ -1,0 +1,36 @@
+<svg width="300" height="195" viewBox="0 0 300 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0.04"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="195" rx="12" fill="#0d1117" stroke="#1e2d40" stroke-width="1"/>
+  <rect width="300" height="195" rx="12" fill="url(#grad2)"/>
+  
+  <text x="20" y="32" fill="#c084fc" font-size="14" font-weight="700" font-family="JetBrains Mono,monospace">Top Languages</text>
+  <line x1="20" y1="40" x2="280" y2="40" stroke="#1e2d40" stroke-width="0.8"/>
+  
+  <!-- Language bars -->
+  <text x="20" y="65" fill="#94a3b8" font-size="10" font-family="JetBrains Mono,monospace">TypeScript</text>
+  <rect x="20" y="70" width="220" height="6" rx="3" fill="#1e2d40"/>
+  <rect x="20" y="70" width="154" height="6" rx="3" fill="#3178C6"/>
+  <text x="248" y="78" fill="#e2e8f0" font-size="9" font-family="JetBrains Mono,monospace">70%</text>
+
+  <text x="20" y="95" fill="#94a3b8" font-size="10" font-family="JetBrains Mono,monospace">JavaScript</text>
+  <rect x="20" y="100" width="220" height="6" rx="3" fill="#1e2d40"/>
+  <rect x="20" y="100" width="88" height="6" rx="3" fill="#F7DF1E"/>
+  <text x="248" y="108" fill="#e2e8f0" font-size="9" font-family="JetBrains Mono,monospace">40%</text>
+
+  <text x="20" y="125" fill="#94a3b8" font-size="10" font-family="JetBrains Mono,monospace">Python</text>
+  <rect x="20" y="130" width="220" height="6" rx="3" fill="#1e2d40"/>
+  <rect x="20" y="130" width="66" height="6" rx="3" fill="#3776AB"/>
+  <text x="248" y="138" fill="#e2e8f0" font-size="9" font-family="JetBrains Mono,monospace">30%</text>
+
+  <text x="20" y="155" fill="#94a3b8" font-size="10" font-family="JetBrains Mono,monospace">Dart</text>
+  <rect x="20" y="160" width="220" height="6" rx="3" fill="#1e2d40"/>
+  <rect x="20" y="160" width="44" height="6" rx="3" fill="#0175C2"/>
+  <text x="248" y="168" fill="#e2e8f0" font-size="9" font-family="JetBrains Mono,monospace">20%</text>
+  
+  <text x="20" y="188" fill="#475569" font-size="8" font-family="JetBrains Mono,monospace">Update when repos go public</text>
+</svg>
