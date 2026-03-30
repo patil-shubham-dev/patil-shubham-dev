@@ -168,18 +168,6 @@ Pre-designed, production-ready auth. Drop it in, it works.
 
 ---
 
-## 📅 3D Contribution Calendar
-
-<div align="center">
-
-<a href="https://github.com/patil-shubham-dev">
-  <img src="assets/contributions-3d.svg" alt="3D Contribution Calendar" width="100%"/>
-</a>
-
-</div>
-
----
-
 ## 🗺️ Roadmap
 
 <div align="center">
