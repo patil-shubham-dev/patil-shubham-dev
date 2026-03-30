@@ -22,18 +22,6 @@
 
 ---
 
-## 🎬 Featured Demo
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x400/0a0a0f/7c3aed?text=JARVIS+AI+Demo+GIF+-+Voice+Command+%22Call+Mum%22" alt="JARVIS Demo" width="90%"/>
-  <br/>
-  <img src="https://via.placeholder.com/900x400/0a0a0f/06b6d4?text=LifeOS+Demo+GIF+-+Proof+Validation+System" alt="LifeOS Demo" width="90%"/>
-  <br/>
-  <sub><i>🎥 Interactive demos — watch my systems come to life</i></sub>
-</div>
-
----
-
 ## 🧠 Who Am I?
 
 ```typescript
