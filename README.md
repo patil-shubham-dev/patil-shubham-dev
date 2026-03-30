@@ -146,14 +146,6 @@ const shubham = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patil-shubham-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
----
-
 ## 🎯 Weekly Wrapped
 
 <div align="center">
