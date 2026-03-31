@@ -1,6 +1,4 @@
-
-<!-- s=112;p=97;e=116;i=105;l=108;  if you know, you know. -->
-<!-- 🥚 EASTER EGG: Decode the numbers above → s=115, p=104, e=117, t=98, i=104, l=97, m=32... type "jarvis_activate" anywhere on my profile → hidden message unlocks! -->
+<!-- s=115;p=104;e=117;t=98;b=104;a=109;  if you know, you know. -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shubham%20Patil&fontSize=55&fontAlignY=38&fontColor=FFFFFF&desc=Digital%20Builder%20%E2%80%94%20Developer%20%7C%20System%20Creator&descAlignY=58&descSize=17&descColor=A78BFA&animation=twinkling" width="100%"/>
@@ -26,22 +24,22 @@
 
 ```typescript
 const shubham = {
-  role:        "Digital Builder — Developer | System Creator",
-  location:    "Nagpur, Maharashtra 🇮🇳",
-  philosophy:  "Build systems that outlast trends",
+  role: "Digital Builder — Developer | System Creator",
+  location: "Nagpur, Maharashtra 🇮🇳",
+  philosophy: "Build systems that outlast trends",
   building: {
-    "🧠 LifeOS":      "Social Productivity Platform — discipline meets community",
-    "🤖 Jarvis AI":   "Iron Man's OS for your mobile phone",
+    "🧠 LifeOS": "Social Productivity Platform — discipline meets community",
+    "🤖 Jarvis AI": "Iron Man's OS for your mobile phone",
     "🔐 Plugin Auth": "Plug & Play pre-built auth system for developers",
   },
-  lookingFor:  "Builders who ship, not just dream 🚀",
-  funFact:     "I think in systems, not features 🔁",
+  lookingFor: "Builders who ship, not just dream 🚀",
+  funFact: "I think in systems, not features 🔁",
 };
 ```
 
 ---
 
-## 🚀 Flagship Projects
+🚀 Flagship Projects
 
 <div align="center">
   <table width="100%">
@@ -99,41 +97,45 @@ const shubham = {
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+💻 Languages
 
-### 🎨 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+🎨 Frontend & Mobile
 
-### 🤖 AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+
+⚙️ Backend & Database
+
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+
+🤖 AI / ML
+
+https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patil-shubham-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=06b6d4&text_color=ffffff" height="195"/>
@@ -146,15 +148,40 @@ const shubham = {
 
 ---
 
-## 🎯 Weekly Wrapped
+📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patil-shubham-dev&theme=react-dark&bg_color=0a0a0f&color=7c3aed&line=06b6d4&point=7c3aed&area=true&hide_border=true&height=300" width="90%"/>
+  <table width="80%">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <b>Total Contributions</b><br/>
+        <span style="font-size: 42px; font-weight: bold; color: #7c3aed;">213</span><br/>
+        <span style="color: #888;">Apr 2, 2025 — Present</span>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <b>Current Streak</b><br/>
+        <span style="font-size: 42px; font-weight: bold; color: #06b6d4;">6</span><br/>
+        <span style="color: #888;">Mar 26 — Mar 31</span>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <b>Longest Streak</b><br/>
+        <span style="font-size: 42px; font-weight: bold; color: #f59e0b;">7</span><br/>
+        <span style="color: #888;">May 14, 2025 — May 20, 2025</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>📊 Weekly Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/patil-shubham-dev" alt="GitHub Contributions Chart" width="85%"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patil-shubham-dev&theme=react-dark&bg_color=0a0a0f&color=7c3aed&line=06b6d4&point=7c3aed&area=true&hide_border=true&height=300" width="85%"/>
 </div>
 
 ---
 
-## 🗺️ Project Roadmap
+🗺️ Project Roadmap
 
 <div align="center">
   <table>
@@ -202,7 +229,7 @@ const shubham = {
 
 ---
 
-## 💡 Philosophy
+💡 Philosophy
 
 <div align="center">
   <table width="80%">
@@ -216,40 +243,7 @@ const shubham = {
 
 ---
 
-## 🎁 Easter Egg
-
-<!-- 🥚🥚🥚 SECRET EASTER EGG 🥚🥚🥚 -->
-<!-- 
-   ░█▀▀░█▀█░█▀▄░█▀▀░█░█░░░█▀▀░█▀█░█▀▄░█▀▀░█░█
-   ░█░░░█░█░█░█░█▀▀░▄▀▄░░░█▀▀░█░█░█░█░█▀▀░▄▀▄
-   ░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀░░░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀
-   
-   🔐 You found the secret! Jarvis protocol activated.
-   💬 Hidden command: Press 'J' + 'A' + 'R' + 'V' + 'I' + 'S' on your keyboard
-   🎵 Secret playlist unlocked: https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M
-   ⭐ Star any 3 of my repos → DM me for a special surprise!
--->
-
-<div align="center">
-  <details>
-    <summary><b>🔮 <i>Click here to unlock a secret...</i> 🔮</b></summary>
-    <br/>
-    <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
-    <br/>
-    <h3>⚡ "I am JARVIS. Your personal AI assistant." ⚡</h3>
-    <br/>
-    <p><b>You've unlocked the hidden layer!</b></p>
-    <p>🎯 <b>Secret Command:</b> <code>jarvis_activate</code> in any of my repos → instant star from me!</p>
-    <p>📜 <b>First 5 people to decode the header comment</b> get early access to LifeOS beta!</p>
-    <p>🔑 Hint: <code>s=115 → ASCII → 's'</code> — the sequence spells something... </p>
-    <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&lines=Welcome+to+the+inner+circle%2C+builder.;Building+systems+that+outlast+trends."/>
-  </details>
-</div>
-
----
-
-## 📬 Let's Connect
+📬 Let's Connect
 
 <div align="center">
   <a href="https://github.com/patil-shubham-dev">
@@ -270,23 +264,19 @@ const shubham = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=twinkling" width="100%"/>
-  
-  <br/>
-  
-  <img src="https://raw.githubusercontent.com/patil-shubham-dev/patil-shubham-dev/output/snake.svg" alt="Snake Animation"/>
-  
-  <br/>
-  
-  <sub><b>⭐ Star my repos if you find them useful — it means the world!</b></sub>
-  <br/>
-  <sub><i>Profile auto-refreshes daily · Nagpur, India 🇮🇳 · Building in public</i></sub>
-  <br/>
-  <sub><code>git commit -m "Building the future, one system at a time"</code></sub>
-</div>
 
-<!-- 
-  🥚 Hidden Easter Egg #2: 
-  The number sequence in header decodes to: "shubham patil" 
-  First person to DM me the decoded message gets a custom-built API integration!
--->
-```
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/patil-shubham-dev/patil-shubham-dev/output/snake.svg" alt="Snake Animation"/>
+
+  <br/>
+
+<sub><b>⭐ Star my repos if you find them useful — it means the world!</b></sub>
+
+
+<sub><i>Profile auto-refreshes daily · Nagpur, India 🇮🇳 · Building in public</i></sub>
+
+
+<sub><code>git commit -m "Building the future, one system at a time"</code></sub>
+
+</div>
