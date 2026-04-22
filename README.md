@@ -25,7 +25,7 @@
 ```typescript
 const shubham = {
   role:        "Digital Builder — Developer | System Creator",
-  location:    "Nagpur, Maharashtra 🇮🇳",
+  location:    "Bhusawal, Maharashtra 🇮🇳",
   philosophy:  "Build systems that outlast trends",
   building: {
     "🧠 LifeOS":      "Social Productivity Platform — discipline meets community",
