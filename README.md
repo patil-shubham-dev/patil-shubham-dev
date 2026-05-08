@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Awesome-Banners/Banner_1.gif" width="100%" alt="Shubham Patil Banner">
-  <br/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Awesome-Banners/Banner_1.gif" width="100%" alt="Banner">
+  <br />
   <h1>Architecting the Future of Personal Intelligence</h1>
   <p><b>Digital Builder — Developer | System Creator</b></p>
   <p><i>"Build systems that outlast trends."</i></p>
-  <p>📍 Bhusawal, Maharashtra 🇮🇳</p>
-  <br/><img src="https://komarev.com/ghpvc/?username=patil-shubham-dev&color=blueviolet" alt="Profile Views"><img src="https://komarev.com" alt="Profile Views">
+  <p>📍 Bhusawal, Maharashtra, IN</p>
+  <br />
+  <!-- Use only this single line for the counter -->
+  <img src="https://komarev.com/ghpvc/?username=patil-shubham-dev&color=blueviolet" alt="Profile Views">
 </div>
 
 ---
