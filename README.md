@@ -1,14 +1,23 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Awesome-Banners/Banner_1.gif" width="100%" alt="Banner">
   <br />
-  <h1>Architecting the Future of Personal Intelligence</h1>
+  
+  <!-- Typewriter Animation for Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=BD87FF&center=true&vCenter=true&width=800&lines=Architecting+the+Future+of+Intelligence;Building+Systems+That+Outlast+Trends;Local-First.+Privacy-Centric.+Intelligent." alt="Typing SVG" />
+  </a>
+
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-AI_Systems-blue?style=flat-square" alt="AI Focus">
-    <img src="https://img.shields.io/badge/Philosophy-Behavioral_Design-black?style=flat-square" alt="Design Philosophy">
+    <img src="https://img.shields.io/badge/Focus-AI_Systems-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="AI Focus">
+    <img src="https://img.shields.io/badge/Philosophy-Behavioral_Design-black?style=for-the-badge&logo=paloaltosoftware&logoColor=white" alt="Design Philosophy">
   </p>
+  
+  <p><b>Digital Builder — Developer | System Creator</b></p>
   <p>📍 Bhusawal, Maharashtra, IN</p>
+  <br />
   <img src="https://komarev.com/ghpvc/?username=patil-shubham-dev&color=blueviolet&style=flat-square" alt="Profile Views">
 </div>
+
 ---
 
 ## 🌌 The Vision
@@ -129,8 +138,13 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
 ---
 
 <div align="center">
-  <p><b>Let's build the future of intelligence.</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Let's+build+the+future+together." alt="Typing SVG" />
+  <br/>
   <a href="https://www.instagram.com/patil.shubham.07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://github.com/patil-shubham-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <br/><br/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Cool-Borders/Border_1.gif" width="100%">
 </div>
+
+
+
