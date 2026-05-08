@@ -5,6 +5,8 @@
   <p><b>Digital Builder — Developer | System Creator</b></p>
   <p><i>"Build systems that outlast trends."</i></p>
   <p>📍 Nagpur, Maharashtra 🇮🇳</p>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?user=patil-shubham-dev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
 ---
@@ -35,11 +37,12 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
         <li><b>Social Synchronization</b>: Public and private spaces for collaborative growth.</li>
         <li><b>Biological Alignment</b>: Merging productivity with your natural energy cycles.</li>
       </ul>
-      <p>
-        <a href="https://www.instagram.com/lifeossocial">📸 @lifeossocial</a> • 
-        <a href="https://www.facebook.com/share/1BdkYfPUsA/">👥 Facebook Page</a>
-      </p>
-      <p align="right"><a href="https://github.com/patil-shubham-dev/LifeOS">Explore LifeOS →</a></p>
+      <div align="left">
+        <a href="https://www.instagram.com/lifeossocial" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LifeOS Instagram"></a>
+        <a href="https://www.facebook.com/share/1BdkYfPUsA/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="LifeOS Facebook"></a>
+      </div>
+      <br/>
+      <p align="right"><a href="https://joinlifeos.vercel.app" target="_blank"><b>Explore LifeOS →</b></a></p>
     </td>
   </tr>
 </table>
@@ -55,7 +58,7 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
         <li><b>Autonomous Orchestration</b>: Multi-agent system (Planner, Memory, Action) for complex tasks.</li>
         <li><b>Privacy-First</b>: All learning and data stay on-device. No tracking.</li>
       </ul>
-      <p align="left"><a href="https://github.com/patil-shubham-dev/Jarvis-Ai">Explore Jarvis AI →</a></p>
+      <p align="left"><a href="https://github.com/patil-shubham-dev/Jarvis-Ai"><b>Explore Jarvis AI →</b></a></p>
     </td>
     <td width="50%">
       <div align="center">
@@ -72,6 +75,8 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
   <tr>
     <td width="50%">
       <div align="center">
+        <img src="assets/flowos-logo.png" width="150px" alt="FlowOS Logo">
+        <br/>
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work-Culture/Cool_Stats_on_Laptop.gif" width="100%" alt="FlowOS Animation">
       </div>
     </td>
@@ -83,7 +88,7 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
         <li><b>Bio-Sync Architecture</b>: Circadian-aligned task scheduling and energy optimization.</li>
         <li><b>OLED-First Design</b>: Premium, high-contrast UI for maximum focus and efficiency.</li>
       </ul>
-      <p align="right"><a href="https://github.com/patil-shubham-dev/FlowOS">Explore FlowOS →</a></p>
+      <p align="right"><a href="https://github.com/patil-shubham-dev/FlowOS"><b>Explore FlowOS →</b></a></p>
     </td>
   </tr>
 </table>
@@ -125,8 +130,7 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
 
 <div align="center">
   <p><b>Let's build the future of intelligence.</b></p>
-  <a href="https://www.instagram.com/patil.shubham.07">📸 @patil.shubham.07</a> • 
-  <a href="https://github.com/patil-shubham-dev">💻 GitHub</a>
+  <a href="https://www.instagram.com/patil.shubham.07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/patil-shubham-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?user=patil-shubham-dev&color=blueviolet&style=flat-square" alt="Profile Views">
 </div>
