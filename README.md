@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Shubham Patil Banner">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Awesome-Banners/Banner_1.gif" width="100%" alt="Shubham Patil Banner">
   <br/>
   <h1>Architecting the Future of Personal Intelligence</h1>
-  <p><b>Principal AI Systems Architect | Full-Stack Engineer | Digital Builder</b></p>
-  <p><i>"Building systems that outlast trends. Proof over promises."</i></p>
+  <p><b>Digital Builder — Developer | System Creator</b></p>
+  <p><i>"Build systems that outlast trends."</i></p>
+  <p>📍 Nagpur, Maharashtra 🇮🇳</p>
 </div>
 
 ---
@@ -20,7 +21,11 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="assets/lifeos_illustration.png" width="100%" alt="LifeOS Illustration">
+      <div align="center">
+        <img src="assets/lifeos-logo.svg" width="150px" alt="LifeOS Logo">
+        <br/>
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work-Culture/Floating_Work_Structure.gif" width="100%" alt="LifeOS Animation">
+      </div>
     </td>
     <td width="50%" valign="top">
       <h4>Social Productivity Redefined</h4>
@@ -30,6 +35,10 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
         <li><b>Social Synchronization</b>: Public and private spaces for collaborative growth.</li>
         <li><b>Biological Alignment</b>: Merging productivity with your natural energy cycles.</li>
       </ul>
+      <p>
+        <a href="https://www.instagram.com/lifeossocial">📸 @lifeossocial</a> • 
+        <a href="https://www.facebook.com/share/1BdkYfPUsA/">👥 Facebook Page</a>
+      </p>
       <p align="right"><a href="https://github.com/patil-shubham-dev/LifeOS">Explore LifeOS →</a></p>
     </td>
   </tr>
@@ -49,7 +58,9 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
       <p align="left"><a href="https://github.com/patil-shubham-dev/Jarvis-Ai">Explore Jarvis AI →</a></p>
     </td>
     <td width="50%">
-      <img src="assets/jarvis_illustration.png" width="100%" alt="Jarvis AI Illustration">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work-Culture/MindSphere.gif" width="100%" alt="Jarvis AI Animation">
+      </div>
     </td>
   </tr>
 </table>
@@ -58,7 +69,9 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="assets/flowos_illustration.png" width="100%" alt="FlowOS Illustration">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work-Culture/Cool_Stats_on_Laptop.gif" width="100%" alt="FlowOS Animation">
+      </div>
     </td>
     <td width="50%" valign="top">
       <h4>Autonomous Intelligence OS</h4>
@@ -104,7 +117,8 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
 
 <div align="center">
   <p><b>Let's build the future of intelligence.</b></p>
-  <a href="https://www.linkedin.com/in/shubhampatil-dev/">LinkedIn</a> • <a href="https://github.com/patil-shubham-dev">GitHub</a>
+  <a href="https://www.instagram.com/patil.shubham.07">📸 @patil.shubham.07</a> • 
+  <a href="https://github.com/patil-shubham-dev">💻 GitHub</a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?user=patil-shubham-dev&color=blueviolet&style=flat-square" alt="Profile Views">
 </div>
