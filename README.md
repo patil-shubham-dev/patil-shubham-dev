@@ -5,8 +5,7 @@
   <p><b>Digital Builder — Developer | System Creator</b></p>
   <p><i>"Build systems that outlast trends."</i></p>
   <p>📍 Bhusawal, Maharashtra 🇮🇳</p>
-  <br/>
- <img src="https://komarev.com" alt="Profile Views">
+  <br/><img src="https://komarev.com/ghpvc/?username=patil-shubham-dev&color=blueviolet" alt="Profile Views"><img src="https://komarev.com" alt="Profile Views">
 </div>
 
 ---
