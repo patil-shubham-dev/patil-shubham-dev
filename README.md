@@ -6,7 +6,7 @@
   <p><i>"Build systems that outlast trends."</i></p>
   <p>📍 Bhusawal, Maharashtra 🇮🇳</p>
   <br/>
-  <img <img src="https://komarev.com" alt="Profile Views">
+ <img src="https://komarev.com" alt="Profile Views">
 </div>
 
 ---
