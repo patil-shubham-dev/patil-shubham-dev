@@ -59,6 +59,8 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
     </td>
     <td width="50%">
       <div align="center">
+        <img src="assets/jarvis-logo.png" width="150px" alt="Jarvis AI Logo">
+        <br/>
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work-Culture/MindSphere.gif" width="100%" alt="Jarvis AI Animation">
       </div>
     </td>
@@ -104,6 +106,12 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
     </tr>
   </table>
 </div>
+
+---
+
+## 🧠 Core Philosophy
+
+> "I don't build features; I build ecosystems. My goal is to bridge the gap between human intent and machine execution, ensuring that technology serves as a seamless extension of our biology, not a distraction from it."
 
 ---
 
