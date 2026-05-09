@@ -33,7 +33,7 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="assets/lifeos-logo.jpg" width="150px" alt="LifeOS Logo">
+        <img src="assets/lifeos-logo.png" width="150px" alt="LifeOS Logo">
         <br/>
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work-Culture/Floating_Work_Structure.gif" width="100%" alt="LifeOS Animation">
       </div>
@@ -84,7 +84,7 @@ I specialize in the intersection of **Human Biology** and **Artificial Intellige
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="assets/flowos-logo.png" width="150px" alt="FlowOS Logo">
+        <img src="assets/flowos-logo-rounded.png" width="150px" alt="FlowOS Logo">
         <br/>
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work-Culture/Cool_Stats_on_Laptop.gif" width="100%" alt="FlowOS Animation">
       </div>
